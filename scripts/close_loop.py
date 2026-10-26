@@ -20,6 +20,7 @@ from align import ACTS, NEW_NAME, load_state, save_state, wait  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "corpus" / "CORRECTIONS_v2.txt"
+SFT = ROOT / "data" / "corpus" / "SFT_v2.jsonl"
 OLD_NAME = {"IPC": "Indian Penal Code (IPC)", "CrPC": "Code of Criminal Procedure (CrPC)", "IEA": "Indian Evidence Act (IEA)"}
 
 RULES = """Which law applies: the savings rules for India's new criminal laws
@@ -65,20 +66,40 @@ def build():
     OUT.write_text("\n".join(lines) + "\n")
     print(f"wrote {OUT.name}: {len(wrong)} corrections, {len(' '.join(lines).split())} words")
 
+    # Supervised pairs for every TRAIN item, in the field names of the API's own dataset example
+    # (instructions/responses). v1 learned prose but not citation numbers; pairs target exactly that.
+    pairs = []
+    for it in items.values():
+        if it["split"] != "train":
+            continue
+        act = it["act"] if it["kind"] != "reverse" else {"BNS": "IPC", "BNSS": "CrPC", "BSA": "IEA"}[it["act"]]
+        why = ""
+        if it["kind"].startswith("temporal"):
+            old = it["gold"] == next((m["old"] for m in maps if m["new_act"] == it["act"] and m["new"] == it["trap"]), None)
+            act = it["old_code"] if old else it["act"]
+            rule = "the offence date decides (BNS s.358 saves the IPC for offences before 1 July 2024)" if it.get("old_code") == "IPC" \
+                else "the FIR registration date decides (BNSS s.531 saves the CrPC for investigations pending on 1 July 2024)"
+            why = f" Not Section {it['trap']}: {rule}."
+        name = NEW_NAME.get(act) or OLD_NAME[act]
+        pairs.append({"instructions": it["question"], "responses": f"{act} Section {it['gold']} ({name}).{why}"})
+    SFT.write_text("".join(json.dumps(x) + "\n" for x in pairs))
+    print(f"wrote {SFT.name}: {len(pairs)} train-split pairs")
+
 
 def run(api):
     s = load_state()
     if "corrections_doc" not in s:
-        r = api.upload_documents([OUT], categories=["indian-criminal-law", "closed-loop"])
-        ids = r.get("document_ids") or r.get("documents")
-        s["corrections_doc"] = ids[0] if isinstance(ids[0], str) else ids[0]["document_id"]
+        r = api.upload_documents([OUT, SFT], categories=["indian-criminal-law", "closed-loop"])
+        ids = [d if isinstance(d, str) else d["document_id"] for d in (r.get("document_ids") or r.get("documents"))]
+        s["corrections_doc"], s["sft_doc"] = ids
         save_state(s)
-    wait("document CORRECTIONS_v2", lambda: api.document_status(s["corrections_doc"]), {"READY"}, every=10)
+    for k in ("corrections_doc", "sft_doc"):
+        wait(f"document {k}", lambda: api.document_status(s[k]), {"READY"}, every=10)
     s.setdefault("alignments_v2", {})
     for act in ACTS:
         if act not in s["alignments_v2"]:
             r = api.create_alignment(f"nyaya-{act}-v2", s["base_model"],
-                                     [s["documents"][act], s["documents"]["GUIDE"], s["corrections_doc"]],
+                                     [s["documents"][act], s["documents"]["GUIDE"], s["corrections_doc"], s["sft_doc"]],
                                      benchmark_id=s["benchmarks"][act],
                                      description=f"{NEW_NAME[act]}: v2, re-aligned on savings rules and v1's train-split errors")
             s["alignments_v2"][act] = {"alignment_id": r["alignment_id"]}

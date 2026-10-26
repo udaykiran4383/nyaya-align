@@ -110,7 +110,7 @@ class Linter:
         cited = self.sections.get((act, section))
         if not cited:
             return {"exists": False}
-        cands = self.ny.index(act).search(self.ny.api.embed(self.ny.embed_models[act], [facts], tag=f"{tag}:embed")[0], 12)
+        cands = self.ny.index(act).search(None, 12, q_text=facts, mode="lexical")
         docs = [f"{act} Section {section} - {cited['heading']}\n{cited['text'][:1200]}"] + [c["text"] for c in cands if c["section"] != section]
         ranked = self.ny.api.rerank(self.ny.embed_models[act], facts, docs, top_n=3, tag=f"{tag}:rerank")
         pos = next((i for i, r in enumerate(ranked) if r["index"] == 0), None)

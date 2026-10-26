@@ -62,7 +62,7 @@ def main():
     p = argparse.ArgumentParser()
     p.add_argument("--conditions", default="base_closed,aligned_closed,aligned_rag")
     p.add_argument("--split", default="test", choices=["test", "train", "all"])
-    p.add_argument("--kinds", default="forward,reverse,stale,heading")
+    p.add_argument("--kinds", default="forward,reverse,stale,heading,temporal_pre,temporal_post,temporal_straddle")
     p.add_argument("--limit", type=int, default=0)
     p.add_argument("--workers", type=int, default=6)
     p.add_argument("--version", default="v1", help="v1 | v2 (models from the closed-loop re-alignment)")

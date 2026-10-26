@@ -67,7 +67,7 @@ class Nugen:
                     time.sleep(min(60, 2 ** attempt * 3))
                     continue
                 raise NugenError(e.code, text) from None
-            except (urllib.error.URLError, TimeoutError):
+            except (urllib.error.URLError, TimeoutError, ConnectionError, OSError):
                 if attempt < retries:
                     time.sleep(2 ** attempt * 3)
                     continue
@@ -133,10 +133,13 @@ class Nugen:
         _ledger("embed", model, tag, r.get("usage"), time.time() - t0)
         return [d["embedding"] for d in sorted(r["data"], key=lambda d: d["index"])]
 
-    def rerank(self, model, query, documents, *, tag="", top_n=5, method="fast"):
+    def rerank(self, model, query, documents, *, tag="", top_n=5, method="optimal",
+               model_cross="cross-encoder/ms-marco-MiniLM-L-6-v2"):
         t0 = time.time()
-        r = self.request("POST", "/api/v3/inference/reranker",
-                         {"model": model, "query": query, "documents": documents, "top_n": top_n, "method": method})
+        body = {"model": model, "query": query, "documents": documents, "top_n": top_n, "method": method}
+        if method in ("standard", "optimal"):
+            body["model_cross"] = model_cross
+        r = self.request("POST", "/api/v3/inference/reranker", body)
         _ledger("rerank", model, tag, r.get("usage"), time.time() - t0)
         return r["results"]
 

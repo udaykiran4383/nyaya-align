@@ -1,0 +1,195 @@
+Which law applies: the savings rules for India's new criminal laws
+
+The new laws came into force on 1 July 2024. They did not wipe out the old codes for older cases.
+
+Substantive offences (IPC or BNS). Section 358 of the Bharatiya Nyaya Sanhita repeals the Indian Penal Code but saves it for offences committed before 1 July 2024. The offence date decides, not the date of the FIR. An offence committed on 10 March 2024 is charged under the IPC even if the FIR is registered in September 2024. An offence committed on or after 1 July 2024 is charged under the BNS.
+
+Procedure (CrPC or BNSS). Section 531 of the Bharatiya Nagarik Suraksha Sanhita repeals the Code of Criminal Procedure but saves any appeal, application, trial, inquiry or investigation pending on 1 July 2024. For procedure the registration of the FIR decides. An FIR registered before 1 July 2024 keeps its investigation under the CrPC. An FIR registered on or after 1 July 2024 is investigated under the BNSS, even when the offence itself happened earlier. The Bombay High Court applied this to an FIR of 14 June 2024, which stayed under the CrPC.
+
+Evidence (IEA or BSA). Section 170 of the Bharatiya Sakshya Adhiniyam repeals the Indian Evidence Act and saves proceedings pending on 1 July 2024.
+
+So a case that straddles the cutover can correctly cite both regimes at once. For example, an offence committed in May 2024 with an FIR registered in August 2024 is charged under the IPC (offence date) and investigated under the BNSS (registration date). Converting every citation to the new law is wrong for such cases, and so is keeping every citation in the old law.
+
+Worked examples
+
+Malignant Act Likely to Spread Infection of Disease. Committed on 5 February 2024, FIR on 8 February 2024: cite IPC 270. Committed on 5 February 2024, FIR on 12 August 2024: still cite IPC 270, because the offence date decides. Committed on 3 March 2025: cite BNS 272.
+Arrest by Private Person. FIR registered on 20 April 2024 with the investigation pending in July 2024: proceed under CrPC 43. Offence in May 2024 but FIR registered on 9 August 2024: proceed under BNSS 40, because the registration date decides. FIR registered in 2025: proceed under BNSS 40.
+Unlawful Compulsory Labour. Committed on 5 February 2024, FIR on 8 February 2024: cite IPC 374. Committed on 5 February 2024, FIR on 12 August 2024: still cite IPC 374, because the offence date decides. Committed on 3 March 2025: cite BNS 146.
+Punishment for Rape. Committed on 5 February 2024, FIR on 8 February 2024: cite IPC 376. Committed on 5 February 2024, FIR on 12 August 2024: still cite IPC 376, because the offence date decides. Committed on 3 March 2025: cite BNS 64.
+Uttering Words with Deliberate Intent to Wound Religious Feelings. Committed on 5 February 2024, FIR on 8 February 2024: cite IPC 298. Committed on 5 February 2024, FIR on 12 August 2024: still cite IPC 298, because the offence date decides. Committed on 3 March 2025: cite BNS 302.
+Wrongful Restraint. Committed on 5 February 2024, FIR on 8 February 2024: cite IPC 341. Committed on 5 February 2024, FIR on 12 August 2024: still cite IPC 341, because the offence date decides. Committed on 3 March 2025: cite BNS 126.
+Conditional Order for Removal of Nuisance. FIR registered on 20 April 2024 with the investigation pending in July 2024: proceed under CrPC 133. Offence in May 2024 but FIR registered on 9 August 2024: proceed under BNSS 152, because the registration date decides. FIR registered in 2025: proceed under BNSS 152.
+Voluntarily Causing Grievous Hurt. Committed on 5 February 2024, FIR on 8 February 2024: cite IPC 325. Committed on 5 February 2024, FIR on 12 August 2024: still cite IPC 325, because the offence date decides. Committed on 3 March 2025: cite BNS 117.
+Bail in Bailable Offences. FIR registered on 20 April 2024 with the investigation pending in July 2024: proceed under CrPC 436. Offence in May 2024 but FIR registered on 9 August 2024: proceed under BNSS 478, because the registration date decides. FIR registered in 2025: proceed under BNSS 478.
+Calling for Records to Exercise Powers of Revision. FIR registered on 20 April 2024 with the investigation pending in July 2024: proceed under CrPC 397. Offence in May 2024 but FIR registered on 9 August 2024: proceed under BNSS 438, because the registration date decides. FIR registered in 2025: proceed under BNSS 438.
+Evidence to Be Taken in Presence of Accused. FIR registered on 20 April 2024 with the investigation pending in July 2024: proceed under CrPC 273. Offence in May 2024 but FIR registered on 9 August 2024: proceed under BNSS 308, because the registration date decides. FIR registered in 2025: proceed under BNSS 308.
+Withdrawal of Remaining Charges on Conviction. FIR registered on 20 April 2024 with the investigation pending in July 2024: proceed under CrPC 224. Offence in May 2024 but FIR registered on 9 August 2024: proceed under BNSS 247, because the registration date decides. FIR registered in 2025: proceed under BNSS 247.
+Power to Try Summarily. FIR registered on 20 April 2024 with the investigation pending in July 2024: proceed under CrPC 260. Offence in May 2024 but FIR registered on 9 August 2024: proceed under BNSS 283, because the registration date decides. FIR registered in 2025: proceed under BNSS 283.
+Permission to Conduct Prosecution. FIR registered on 20 April 2024 with the investigation pending in July 2024: proceed under CrPC 302. Offence in May 2024 but FIR registered on 9 August 2024: proceed under BNSS 339, because the registration date decides. FIR registered in 2025: proceed under BNSS 339.
+Separate Charges for Distinct Offences. FIR registered on 20 April 2024 with the investigation pending in July 2024: proceed under CrPC 218. Offence in May 2024 but FIR registered on 9 August 2024: proceed under BNSS 241, because the registration date decides. FIR registered in 2025: proceed under BNSS 241.
+Procedure When Police Officer Deputes Subordinate. FIR registered on 20 April 2024 with the investigation pending in July 2024: proceed under CrPC 55. Offence in May 2024 but FIR registered on 9 August 2024: proceed under BNSS 55, because the registration date decides. FIR registered in 2025: proceed under BNSS 55.
+Abettor Present when Offence is Committed. Committed on 5 February 2024, FIR on 8 February 2024: cite IPC 114. Committed on 5 February 2024, FIR on 12 August 2024: still cite IPC 114, because the offence date decides. Committed on 3 March 2025: cite BNS 54.
+Rape (Definition). Committed on 5 February 2024, FIR on 8 February 2024: cite IPC 375. Committed on 5 February 2024, FIR on 12 August 2024: still cite IPC 375, because the offence date decides. Committed on 3 March 2025: cite BNS 63.
+Information as to Non-Cognizable Cases. FIR registered on 20 April 2024 with the investigation pending in July 2024: proceed under CrPC 155. Offence in May 2024 but FIR registered on 9 August 2024: proceed under BNSS 174, because the registration date decides. FIR registered in 2025: proceed under BNSS 174.
+Sale of Obscene Books, etc.. Committed on 5 February 2024, FIR on 8 February 2024: cite IPC 292. Committed on 5 February 2024, FIR on 12 August 2024: still cite IPC 292, because the offence date decides. Committed on 3 March 2025: cite BNS 294.
+Injuring or Defiling Place of Worship with Intent to Insult Religion. Committed on 5 February 2024, FIR on 8 February 2024: cite IPC 295. Committed on 5 February 2024, FIR on 12 August 2024: still cite IPC 295, because the offence date decides. Committed on 3 March 2025: cite BNS 298.
+No Appeal in Certain Cases. FIR registered on 20 April 2024 with the investigation pending in July 2024: proceed under CrPC 372. Offence in May 2024 but FIR registered on 9 August 2024: proceed under BNSS 413, because the registration date decides. FIR registered in 2025: proceed under BNSS 413.
+Kidnapping for Ransom. Committed on 5 February 2024, FIR on 8 February 2024: cite IPC 364A. Committed on 5 February 2024, FIR on 12 August 2024: still cite IPC 364A, because the offence date decides. Committed on 3 March 2025: cite BNS 140.
+Cruelty by husband or relatives of husband. Committed on 5 February 2024, FIR on 8 February 2024: cite IPC 498A. Committed on 5 February 2024, FIR on 12 August 2024: still cite IPC 498A, because the offence date decides. Committed on 3 March 2025: cite BNS 85.
+House-trespass after Preparation for Hurt, Assault, or Wrongful Restraint. Committed on 5 February 2024, FIR on 8 February 2024: cite IPC 452. Committed on 5 February 2024, FIR on 12 August 2024: still cite IPC 452, because the offence date decides. Committed on 3 March 2025: cite BNS 333.
+Adulteration of Food or Drink Intended for Sale. Committed on 5 February 2024, FIR on 8 February 2024: cite IPC 272. Committed on 5 February 2024, FIR on 12 August 2024: still cite IPC 272, because the offence date decides. Committed on 3 March 2025: cite BNS 274.
+When Manner of Committing Offence Must Be Stated. FIR registered on 20 April 2024 with the investigation pending in July 2024: proceed under CrPC 213. Offence in May 2024 but FIR registered on 9 August 2024: proceed under BNSS 236, because the registration date decides. FIR registered in 2025: proceed under BNSS 236.
+Trafficking of Persons. Committed on 5 February 2024, FIR on 8 February 2024: cite IPC 370. Committed on 5 February 2024, FIR on 12 August 2024: still cite IPC 370, because the offence date decides. Committed on 3 March 2025: cite BNS 143.
+Power to Postpone or Adjourn Proceedings. FIR registered on 20 April 2024 with the investigation pending in July 2024: proceed under CrPC 309. Offence in May 2024 but FIR registered on 9 August 2024: proceed under BNSS 346, because the registration date decides. FIR registered in 2025: proceed under BNSS 346.
+Judgment. FIR registered on 20 April 2024 with the investigation pending in July 2024: proceed under CrPC 353. Offence in May 2024 but FIR registered on 9 August 2024: proceed under BNSS 392, because the registration date decides. FIR registered in 2025: proceed under BNSS 392.
+Rash Driving or Riding on a Public Way. Committed on 5 February 2024, FIR on 8 February 2024: cite IPC 279. Committed on 5 February 2024, FIR on 12 August 2024: still cite IPC 279, because the offence date decides. Committed on 3 March 2025: cite BNS 281.
+Assault or Criminal Force to Woman with Intent to Outrage Modesty. Committed on 5 February 2024, FIR on 8 February 2024: cite IPC 354. Committed on 5 February 2024, FIR on 12 August 2024: still cite IPC 354, because the offence date decides. Committed on 3 March 2025: cite BNS 74.
+Cheating by Personation. Committed on 5 February 2024, FIR on 8 February 2024: cite IPC 419. Committed on 5 February 2024, FIR on 12 August 2024: still cite IPC 419, because the offence date decides. Committed on 3 March 2025: cite BNS 319.
+Appeal Against Acquittal. FIR registered on 20 April 2024 with the investigation pending in July 2024: proceed under CrPC 378. Offence in May 2024 but FIR registered on 9 August 2024: proceed under BNSS 419, because the registration date decides. FIR registered in 2025: proceed under BNSS 419.
+Cognizance of Offences by Courts of Session. FIR registered on 20 April 2024 with the investigation pending in July 2024: proceed under CrPC 193. Offence in May 2024 but FIR registered on 9 August 2024: proceed under BNSS 213, because the registration date decides. FIR registered in 2025: proceed under BNSS 213.
+Statements to Police Not to Be Signed. FIR registered on 20 April 2024 with the investigation pending in July 2024: proceed under CrPC 162. Offence in May 2024 but FIR registered on 9 August 2024: proceed under BNSS 181, because the registration date decides. FIR registered in 2025: proceed under BNSS 181.
+Punishment for Causing Death or Persistent Vegetative State during Rape. Committed on 5 February 2024, FIR on 8 February 2024: cite IPC 376A. Committed on 5 February 2024, FIR on 12 August 2024: still cite IPC 376A, because the offence date decides. Committed on 3 March 2025: cite BNS 66.
+Enforcement of Order of Maintenance. FIR registered on 20 April 2024 with the investigation pending in July 2024: proceed under CrPC 128. Offence in May 2024 but FIR registered on 9 August 2024: proceed under BNSS 147, because the registration date decides. FIR registered in 2025: proceed under BNSS 147.
+Abetment of Suicide of Child or Insane Person. Committed on 5 February 2024, FIR on 8 February 2024: cite IPC 305. Committed on 5 February 2024, FIR on 12 August 2024: still cite IPC 305, because the offence date decides. Committed on 3 March 2025: cite BNS 107.
+Record in Summons Cases and Inquiries. FIR registered on 20 April 2024 with the investigation pending in July 2024: proceed under CrPC 274. Offence in May 2024 but FIR registered on 9 August 2024: proceed under BNSS 309, because the registration date decides. FIR registered in 2025: proceed under BNSS 309.
+Mutually Satisfactory Disposition. FIR registered on 20 April 2024 with the investigation pending in July 2024: proceed under CrPC 265C. Offence in May 2024 but FIR registered on 9 August 2024: proceed under BNSS 291, because the registration date decides. FIR registered in 2025: proceed under BNSS 291.
+Power of High Court to Transfer Cases. FIR registered on 20 April 2024 with the investigation pending in July 2024: proceed under CrPC 407. Offence in May 2024 but FIR registered on 9 August 2024: proceed under BNSS 447, because the registration date decides. FIR registered in 2025: proceed under BNSS 447.
+Forgery for purpose of cheating. Committed on 5 February 2024, FIR on 8 February 2024: cite IPC 468. Committed on 5 February 2024, FIR on 12 August 2024: still cite IPC 468, because the offence date decides. Committed on 3 March 2025: cite BNS 339.
+Harbouring Offender. Committed on 5 February 2024, FIR on 8 February 2024: cite IPC 212. Committed on 5 February 2024, FIR on 12 August 2024: still cite IPC 212, because the offence date decides. Committed on 3 March 2025: cite BNS 249.
+Causing Death by Negligence. Committed on 5 February 2024, FIR on 8 February 2024: cite IPC 304A. Committed on 5 February 2024, FIR on 12 August 2024: still cite IPC 304A, because the offence date decides. Committed on 3 March 2025: cite BNS 106.
+Voluntarily causing grievous hurt by dangerous weapons. Committed on 5 February 2024, FIR on 8 February 2024: cite IPC 326. Committed on 5 February 2024, FIR on 12 August 2024: still cite IPC 326, because the offence date decides. Committed on 3 March 2025: cite BNS 119.
+Framing of Charge (Sessions Trial). FIR registered on 20 April 2024 with the investigation pending in July 2024: proceed under CrPC 228. Offence in May 2024 but FIR registered on 9 August 2024: proceed under BNSS 251, because the registration date decides. FIR registered in 2025: proceed under BNSS 251.
+Mischief. Committed on 5 February 2024, FIR on 8 February 2024: cite IPC 425. Committed on 5 February 2024, FIR on 12 August 2024: still cite IPC 425, because the offence date decides. Committed on 3 March 2025: cite BNS 324.
+Extension of Period of Limitation in Certain Cases. FIR registered on 20 April 2024 with the investigation pending in July 2024: proceed under CrPC 473. Offence in May 2024 but FIR registered on 9 August 2024: proceed under BNSS 519, because the registration date decides. FIR registered in 2025: proceed under BNSS 519.
+Sentence on Escaped Convict When Recaptured. FIR registered on 20 April 2024 with the investigation pending in July 2024: proceed under CrPC 426. Offence in May 2024 but FIR registered on 9 August 2024: proceed under BNSS 466, because the registration date decides. FIR registered in 2025: proceed under BNSS 466.
+Non-Appearance or Death of Complainant. FIR registered on 20 April 2024 with the investigation pending in July 2024: proceed under CrPC 256. Offence in May 2024 but FIR registered on 9 August 2024: proceed under BNSS 279, because the registration date decides. FIR registered in 2025: proceed under BNSS 279.
+Power to Issue Order in Urgent Cases of Nuisance or Apprehended Danger. FIR registered on 20 April 2024 with the investigation pending in July 2024: proceed under CrPC 144. Offence in May 2024 but FIR registered on 9 August 2024: proceed under BNSS 163, because the registration date decides. FIR registered in 2025: proceed under BNSS 163.
+Bail in Non-Bailable Offences. FIR registered on 20 April 2024 with the investigation pending in July 2024: proceed under CrPC 437. Offence in May 2024 but FIR registered on 9 August 2024: proceed under BNSS 480, because the registration date decides. FIR registered in 2025: proceed under BNSS 480.
+Where It Is Doubtful What Offence Has Been Committed. FIR registered on 20 April 2024 with the investigation pending in July 2024: proceed under CrPC 221. Offence in May 2024 but FIR registered on 9 August 2024: proceed under BNSS 244, because the registration date decides. FIR registered in 2025: proceed under BNSS 244.
+Framing of Charge (Warrant Case). FIR registered on 20 April 2024 with the investigation pending in July 2024: proceed under CrPC 240. Offence in May 2024 but FIR registered on 9 August 2024: proceed under BNSS 263, because the registration date decides. FIR registered in 2025: proceed under BNSS 263.
+Reports of Certain Government Scientific Experts. FIR registered on 20 April 2024 with the investigation pending in July 2024: proceed under CrPC 293. Offence in May 2024 but FIR registered on 9 August 2024: proceed under BNSS 328, because the registration date decides. FIR registered in 2025: proceed under BNSS 328.
+Murder (Definition). Committed on 5 February 2024, FIR on 8 February 2024: cite IPC 300. Committed on 5 February 2024, FIR on 12 August 2024: still cite IPC 300, because the offence date decides. Committed on 3 March 2025: cite BNS 101.
+Order for Maintenance of Wives, Children and Parents. FIR registered on 20 April 2024 with the investigation pending in July 2024: proceed under CrPC 125. Offence in May 2024 but FIR registered on 9 August 2024: proceed under BNSS 144, because the registration date decides. FIR registered in 2025: proceed under BNSS 144.
+Person Arrested to Be Informed of Grounds. FIR registered on 20 April 2024 with the investigation pending in July 2024: proceed under CrPC 50. Offence in May 2024 but FIR registered on 9 August 2024: proceed under BNSS 47, because the registration date decides. FIR registered in 2025: proceed under BNSS 47.
+Supply of Copies to Accused. FIR registered on 20 April 2024 with the investigation pending in July 2024: proceed under CrPC 207. Offence in May 2024 but FIR registered on 9 August 2024: proceed under BNSS 230, because the registration date decides. FIR registered in 2025: proceed under BNSS 230.
+
+Corrections of earlier mistakes
+
+Question: Section 270 of the Indian Penal Code, 1860 (Malignant Act Likely to Spread Infection of Disease) has been replaced by which section of the Bharatiya Nyaya Sanhita, 2023? Answer with the section number.
+Correct answer: Section 272 of the Bharatiya Nyaya Sanhita, 2023. Not Section 270.
+Question: Section 43 of the Code of Criminal Procedure, 1973 (Arrest by Private Person) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.
+Correct answer: Section 40 of the Bharatiya Nagarik Suraksha Sanhita, 2023. Not Section 43.
+Question: Section 374 of the Indian Penal Code, 1860 (Unlawful Compulsory Labour) has been replaced by which section of the Bharatiya Nyaya Sanhita, 2023? Answer with the section number.
+Correct answer: Section 146 of the Bharatiya Nyaya Sanhita, 2023. Not Section 374.
+Question: Section 376 of the Indian Penal Code, 1860 (Punishment for Rape) has been replaced by which section of the Bharatiya Nyaya Sanhita, 2023? Answer with the section number.
+Correct answer: Section 64 of the Bharatiya Nyaya Sanhita, 2023. Not Section 376.
+Question: Section 298 of the Indian Penal Code, 1860 (Uttering Words with Deliberate Intent to Wound Religious Feelings) has been replaced by which section of the Bharatiya Nyaya Sanhita, 2023? Answer with the section number.
+Correct answer: Section 302 of the Bharatiya Nyaya Sanhita, 2023. Not Section 298.
+Question: Section 341 of the Indian Penal Code, 1860 (Wrongful Restraint) has been replaced by which section of the Bharatiya Nyaya Sanhita, 2023? Answer with the section number.
+Correct answer: Section 126 of the Bharatiya Nyaya Sanhita, 2023. Not Section 341.
+Question: Section 133 of the Code of Criminal Procedure, 1973 (Conditional Order for Removal of Nuisance) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.
+Correct answer: Section 152 of the Bharatiya Nagarik Suraksha Sanhita, 2023. Not Section 133.
+Question: Section 325 of the Indian Penal Code, 1860 (Voluntarily Causing Grievous Hurt) has been replaced by which section of the Bharatiya Nyaya Sanhita, 2023? Answer with the section number.
+Correct answer: Section 117 of the Bharatiya Nyaya Sanhita, 2023. Not Section 325.
+Question: Section 436 of the Code of Criminal Procedure, 1973 (Bail in Bailable Offences) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.
+Correct answer: Section 478 of the Bharatiya Nagarik Suraksha Sanhita, 2023. Not Section 436.
+Question: Section 397 of the Code of Criminal Procedure, 1973 (Calling for Records to Exercise Powers of Revision) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.
+Correct answer: Section 438 of the Bharatiya Nagarik Suraksha Sanhita, 2023. Not Section 397.
+Question: Section 273 of the Code of Criminal Procedure, 1973 (Evidence to Be Taken in Presence of Accused) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.
+Correct answer: Section 308 of the Bharatiya Nagarik Suraksha Sanhita, 2023. Not Section 193.
+Question: Section 224 of the Code of Criminal Procedure, 1973 (Withdrawal of Remaining Charges on Conviction) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.
+Correct answer: Section 247 of the Bharatiya Nagarik Suraksha Sanhita, 2023. Not Section 224.
+Question: Section 260 of the Code of Criminal Procedure, 1973 (Power to Try Summarily) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.
+Correct answer: Section 283 of the Bharatiya Nagarik Suraksha Sanhita, 2023. Not Section 260.
+Question: Section 302 of the Code of Criminal Procedure, 1973 (Permission to Conduct Prosecution) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.
+Correct answer: Section 339 of the Bharatiya Nagarik Suraksha Sanhita, 2023. Not Section 302.
+Question: Section 218 of the Code of Criminal Procedure, 1973 (Separate Charges for Distinct Offences) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.
+Correct answer: Section 241 of the Bharatiya Nagarik Suraksha Sanhita, 2023. Not Section 219.
+Question: Section 114 of the Indian Penal Code, 1860 (Abettor Present when Offence is Committed) has been replaced by which section of the Bharatiya Nyaya Sanhita, 2023? Answer with the section number.
+Correct answer: Section 54 of the Bharatiya Nyaya Sanhita, 2023. Not Section 114.
+Question: Section 375 of the Indian Penal Code, 1860 (Rape (Definition)) has been replaced by which section of the Bharatiya Nyaya Sanhita, 2023? Answer with the section number.
+Correct answer: Section 63 of the Bharatiya Nyaya Sanhita, 2023. Not Section 3.
+Question: Section 155 of the Code of Criminal Procedure, 1973 (Information as to Non-Cognizable Cases) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.
+Correct answer: Section 174 of the Bharatiya Nagarik Suraksha Sanhita, 2023. Not Section 155.
+Question: Section 292 of the Indian Penal Code, 1860 (Sale of Obscene Books, etc.) has been replaced by which section of the Bharatiya Nyaya Sanhita, 2023? Answer with the section number.
+Correct answer: Section 294 of the Bharatiya Nyaya Sanhita, 2023. Not Section 292.
+Question: Section 295 of the Indian Penal Code, 1860 (Injuring or Defiling Place of Worship with Intent to Insult Religion) has been replaced by which section of the Bharatiya Nyaya Sanhita, 2023? Answer with the section number.
+Correct answer: Section 298 of the Bharatiya Nyaya Sanhita, 2023. Not Section 295.
+Question: Section 272 of the Bharatiya Nyaya Sanhita, 2023 corresponds to which section of the repealed Indian Penal Code, 1860? Answer with the section number.
+Correct answer: Section 270 of the Indian Penal Code (IPC). Not Section 272.
+Question: Section 40 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.
+Correct answer: Section 43 of the Code of Criminal Procedure (CrPC). Not Section 40.
+Question: Section 146 of the Bharatiya Nyaya Sanhita, 2023 corresponds to which section of the repealed Indian Penal Code, 1860? Answer with the section number.
+Correct answer: Section 374 of the Indian Penal Code (IPC). Not Section 146.
+Question: Section 64 of the Bharatiya Nyaya Sanhita, 2023 corresponds to which section of the repealed Indian Penal Code, 1860? Answer with the section number.
+Correct answer: Section 376 of the Indian Penal Code (IPC). Not Section 64.
+Question: Section 302 of the Bharatiya Nyaya Sanhita, 2023 corresponds to which section of the repealed Indian Penal Code, 1860? Answer with the section number.
+Correct answer: Section 298 of the Indian Penal Code (IPC). Not Section 302.
+Question: Section 126 of the Bharatiya Nyaya Sanhita, 2023 corresponds to which section of the repealed Indian Penal Code, 1860? Answer with the section number.
+Correct answer: Section 341 of the Indian Penal Code (IPC). Not Section 126.
+Question: Section 152 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.
+Correct answer: Section 133 of the Code of Criminal Procedure (CrPC). Not Section 152.
+Question: Section 117 of the Bharatiya Nyaya Sanhita, 2023 corresponds to which section of the repealed Indian Penal Code, 1860? Answer with the section number.
+Correct answer: Section 325 of the Indian Penal Code (IPC). Not Section 117.
+Question: Section 478 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.
+Correct answer: Section 436 of the Code of Criminal Procedure (CrPC). Not Section 478.
+Question: Section 438 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.
+Correct answer: Section 397 of the Code of Criminal Procedure (CrPC). Not Section 438.
+Question: Section 308 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.
+Correct answer: Section 273 of the Code of Criminal Procedure (CrPC). Not Section 308.
+Question: Section 247 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.
+Correct answer: Section 224 of the Code of Criminal Procedure (CrPC). Not Section 247.
+Question: Section 283 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.
+Correct answer: Section 260 of the Code of Criminal Procedure (CrPC). Not Section 283.
+Question: Section 339 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.
+Correct answer: Section 302 of the Code of Criminal Procedure (CrPC). Not Section 339.
+Question: Section 241 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.
+Correct answer: Section 218 of the Code of Criminal Procedure (CrPC). Not Section 241.
+Question: Section 54 of the Bharatiya Nyaya Sanhita, 2023 corresponds to which section of the repealed Indian Penal Code, 1860? Answer with the section number.
+Correct answer: Section 114 of the Indian Penal Code (IPC). Not Section 54.
+Question: Section 63 of the Bharatiya Nyaya Sanhita, 2023 corresponds to which section of the repealed Indian Penal Code, 1860? Answer with the section number.
+Correct answer: Section 375 of the Indian Penal Code (IPC). Not Section 63.
+Question: Section 174 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.
+Correct answer: Section 155 of the Code of Criminal Procedure (CrPC). Not Section 174.
+Question: Section 298 of the Bharatiya Nyaya Sanhita, 2023 corresponds to which section of the repealed Indian Penal Code, 1860? Answer with the section number.
+Correct answer: Section 295 of the Indian Penal Code (IPC). Not Section 298.
+Question: It is March 2025 in India. Police are registering a case for: malignant act likely to spread infection of disease. Under which section of the law currently in force should it be registered? Answer with the act and section number.
+Correct answer: Section 272 of the Bharatiya Nyaya Sanhita, 2023. Not Section 53.
+Question: It is March 2025 in India. Police are registering a case for: arrest by private person. Under which section of the law currently in force should it be registered? Answer with the act and section number.
+Correct answer: Section 40 of the Bharatiya Nagarik Suraksha Sanhita, 2023. Not Section 64.
+Question: It is March 2025 in India. Police are registering a case for: unlawful compulsory labour. Under which section of the law currently in force should it be registered? Answer with the act and section number.
+Correct answer: Section 146 of the Bharatiya Nyaya Sanhita, 2023. Not Section 208.
+Question: It is March 2025 in India. Police are registering a case for: punishment for rape. Under which section of the law currently in force should it be registered? Answer with the act and section number.
+Correct answer: Section 64 of the Bharatiya Nyaya Sanhita, 2023. Not Section 75.
+Question: It is March 2025 in India. Police are registering a case for: uttering words with deliberate intent to wound religious feelings. Under which section of the law currently in force should it be registered? Answer with the act and section number.
+Correct answer: Section 302 of the Bharatiya Nyaya Sanhita, 2023. Not Section 295A.
+Question: It is March 2025 in India. Police are registering a case for: wrongful restraint. Under which section of the law currently in force should it be registered? Answer with the act and section number.
+Correct answer: Section 126 of the Bharatiya Nyaya Sanhita, 2023. Not Section 211.
+Question: It is March 2025 in India. Police are registering a case for: conditional order for removal of nuisance. Under which section of the law currently in force should it be registered? Answer with the act and section number.
+Correct answer: Section 152 of the Bharatiya Nagarik Suraksha Sanhita, 2023. Not Section 144.
+Question: It is March 2025 in India. Police are registering a case for: voluntarily causing grievous hurt. Under which section of the law currently in force should it be registered? Answer with the act and section number.
+Correct answer: Section 117 of the Bharatiya Nyaya Sanhita, 2023. Not Section 188.
+Question: It is March 2025 in India. Police are registering a case for: bail in bailable offences. Under which section of the law currently in force should it be registered? Answer with the act and section number.
+Correct answer: Section 478 of the Bharatiya Nagarik Suraksha Sanhita, 2023. Not Section 69.
+Question: It is March 2025 in India. Police are registering a case for: calling for records to exercise powers of revision. Under which section of the law currently in force should it be registered? Answer with the act and section number.
+Correct answer: Section 438 of the Bharatiya Nagarik Suraksha Sanhita, 2023. Not Section 123.
+Question: It is March 2025 in India. Police are registering a case for: evidence to be taken in presence of accused. Under which section of the law currently in force should it be registered? Answer with the act and section number.
+Correct answer: Section 308 of the Bharatiya Nagarik Suraksha Sanhita, 2023. Not Section 123.
+Question: It is March 2025 in India. Police are registering a case for: withdrawal of remaining charges on conviction. Under which section of the law currently in force should it be registered? Answer with the act and section number.
+Correct answer: Section 247 of the Bharatiya Nagarik Suraksha Sanhita, 2023. Not Section 354.
+Question: It is March 2025 in India. Police are registering a case for: power to try summarily. Under which section of the law currently in force should it be registered? Answer with the act and section number.
+Correct answer: Section 283 of the Bharatiya Nagarik Suraksha Sanhita, 2023. Not Section 45.
+Question: It is March 2025 in India. Police are registering a case for: permission to conduct prosecution. Under which section of the law currently in force should it be registered? Answer with the act and section number.
+Correct answer: Section 339 of the Bharatiya Nagarik Suraksha Sanhita, 2023. Not Section 123.
+Question: It is March 2025 in India. Police are registering a case for: separate charges for distinct offences. Under which section of the law currently in force should it be registered? Answer with the act and section number.
+Correct answer: Section 241 of the Bharatiya Nagarik Suraksha Sanhita, 2023. Not Section 64.
+Question: It is March 2025 in India. Police are registering a case for: procedure when police officer deputes subordinate. Under which section of the law currently in force should it be registered? Answer with the act and section number.
+Correct answer: Section 55 of the Bharatiya Nagarik Suraksha Sanhita, 2023. Not Section 59.
+Question: It is March 2025 in India. Police are registering a case for: abettor present when offence is committed. Under which section of the law currently in force should it be registered? Answer with the act and section number.
+Correct answer: Section 54 of the Bharatiya Nyaya Sanhita, 2023. Not Section 195.
+Question: It is March 2025 in India. Police are registering a case for: rape (definition). Under which section of the law currently in force should it be registered? Answer with the act and section number.
+Correct answer: Section 63 of the Bharatiya Nyaya Sanhita, 2023. Not Section 3.
+Question: It is March 2025 in India. Police are registering a case for: information as to non-cognizable cases. Under which section of the law currently in force should it be registered? Answer with the act and section number.
+Correct answer: Section 174 of the Bharatiya Nagarik Suraksha Sanhita, 2023. Not Section 45.
+Question: It is March 2025 in India. Police are registering a case for: sale of obscene books, etc.. Under which section of the law currently in force should it be registered? Answer with the act and section number.
+Correct answer: Section 294 of the Bharatiya Nyaya Sanhita, 2023. Not Section 67.

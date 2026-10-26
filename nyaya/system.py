@@ -9,6 +9,7 @@
 import json
 import math
 import re
+from collections import Counter
 from pathlib import Path
 
 from .client import Nugen
@@ -61,11 +62,56 @@ class Index:
             data = chunks
             path.write_text(json.dumps(data))
         self.chunks = data
+        self.bm25 = BM25([c["text"] for c in data])
 
-    def search(self, qv, k):
-        qv = _norm(qv)
-        scored = sorted(self.chunks, key=lambda c: -sum(a * b for a, b in zip(qv, c["v"])))
-        return scored[:k]
+    def search(self, qv, k, q_text=None, mode="hybrid"):
+        """dense (aligned-model cosine), lexical (BM25) or hybrid (reciprocal-rank fusion of both)."""
+        dense = []
+        if mode != "lexical":
+            qv = _norm(qv)
+            dense = sorted(range(len(self.chunks)), key=lambda i: -sum(a * b for a, b in zip(qv, self.chunks[i]["v"])))
+        if mode == "dense" or not q_text:
+            return [self.chunks[i] for i in dense[:k]]
+        lex = self.bm25.rank(clean_query(q_text))
+        if mode == "lexical":
+            return [self.chunks[i] for i in lex[:k]]
+        fused = {}
+        for ranking in (dense, lex):
+            for r, i in enumerate(ranking[:200]):
+                fused[i] = fused.get(i, 0) + 1 / (60 + r)
+        return [self.chunks[i] for i in sorted(fused, key=lambda i: -fused[i])[:k]]
+
+
+STOPWORDS = set("""a an the of and or to in on by for with as at from is are be was were which what who whom whose this that
+these those it its any such shall may section sections act answer number under law in force currently india""".split())
+BOILERPLATE = re.compile(r"(bharatiya (nyaya|nagarik suraksha) sanhita|bharatiya sakshya adhiniyam|indian penal code|code of criminal "
+                         r"procedure|indian evidence act),?\s*(18\d\d|19\d\d|20\d\d)?|answer with[^.?]*[.?]?", re.I)
+
+
+def clean_query(q):
+    return BOILERPLATE.sub(" ", q)
+
+
+def _tok(s):
+    return [w for w in re.findall(r"[a-z]+|\d+[a-z]?", s.lower()) if w not in STOPWORDS]
+
+
+class BM25:
+    def __init__(self, docs, k1=1.4, b=0.75):
+        self.k1, self.b = k1, b
+        self.tf = [Counter(_tok(d)) for d in docs]
+        self.len = [sum(t.values()) for t in self.tf]
+        self.avg = sum(self.len) / max(1, len(self.len))
+        df = Counter(w for t in self.tf for w in t)
+        n = len(docs)
+        self.idf = {w: math.log(1 + (n - f + 0.5) / (f + 0.5)) for w, f in df.items()}
+
+    def rank(self, q):
+        qs = set(_tok(q))
+        def score(i):
+            t, L = self.tf[i], self.len[i]
+            return sum(self.idf.get(w, 0) * t[w] * (self.k1 + 1) / (t[w] + self.k1 * (1 - self.b + self.b * L / self.avg)) for w in qs if w in t)
+        return sorted(range(len(self.tf)), key=lambda i: -score(i))
 
 
 class Nyaya:
@@ -88,11 +134,16 @@ class Nyaya:
                 return act
         return "BNS"
 
-    def retrieve(self, act, q, k=20, top=4, tag=""):
+    def retrieve(self, act, q, k=20, top=4, tag="", mode="lexical", rerank="optimal"):
+        """Candidates from BM25 by default: on this corpus the aligned id's embeddings put the gold section in
+        the top 4 for 0/40 probe queries vs 40/40 for BM25 (see README). The aligned id still reranks, in
+        'optimal' mode (its bi-encoder + a cross-encoder): 35/40 top-1 vs 31/40 for BM25 alone."""
         m = self.embed_models[act]
-        qv = self.api.embed(m, [q], tag=f"{tag}:embed")[0]
-        cands = self.index(act).search(qv, k)
-        ranked = self.api.rerank(m, q, [c["text"] for c in cands], top_n=top, tag=f"{tag}:rerank")
+        qv = self.api.embed(m, [clean_query(q)], tag=f"{tag}:embed")[0] if mode != "lexical" else None
+        cands = self.index(act).search(qv, k, q_text=q, mode=mode)
+        if not rerank:
+            return cands[:top]
+        ranked = self.api.rerank(m, clean_query(q), [c["text"] for c in cands], top_n=top, method=rerank, tag=f"{tag}:rerank")
         return [cands[r["index"]] for r in ranked]
 
     def generate(self, act, q, ctx=None, tag="", **kw):
