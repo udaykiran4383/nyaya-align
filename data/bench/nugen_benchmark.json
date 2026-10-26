@@ -1,0 +1,1552 @@
+[
+ {
+  "sample_num": 1,
+  "instruction": "Section 166 of the Indian Penal Code, 1860 (Public Servant Disobeying Law with Intent to Cause Injury) has been replaced by which section of the Bharatiya Nyaya Sanhita, 2023? Answer with the section number.",
+  "response": "Section 198 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 2,
+  "instruction": "Section 198 of the Bharatiya Nyaya Sanhita, 2023 corresponds to which section of the repealed Indian Penal Code, 1860? Answer with the section number.",
+  "response": "Section 166 of the Indian Penal Code, 1860."
+ },
+ {
+  "sample_num": 3,
+  "instruction": "It is March 2025 in India. Police are registering a case for: public servant disobeying law with intent to cause injury. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 198 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 4,
+  "instruction": "Section 204 of the Code of Criminal Procedure, 1973 (Issue of Process) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.",
+  "response": "Section 227 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 5,
+  "instruction": "Section 227 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.",
+  "response": "Section 204 of the Code of Criminal Procedure, 1973."
+ },
+ {
+  "sample_num": 6,
+  "instruction": "It is March 2025 in India. Police are registering a case for: issue of process. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 227 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 7,
+  "instruction": "Section 432 of the Code of Criminal Procedure, 1973 (Power to Suspend or Remit Sentences) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.",
+  "response": "Section 473 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 8,
+  "instruction": "Section 473 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.",
+  "response": "Section 432 of the Code of Criminal Procedure, 1973."
+ },
+ {
+  "sample_num": 9,
+  "instruction": "It is March 2025 in India. Police are registering a case for: power to suspend or remit sentences. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 473 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 10,
+  "instruction": "Section 446 of the Code of Criminal Procedure, 1973 (Procedure When Bond is Forfeited) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.",
+  "response": "Section 491 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 11,
+  "instruction": "Section 491 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.",
+  "response": "Section 446 of the Code of Criminal Procedure, 1973."
+ },
+ {
+  "sample_num": 12,
+  "instruction": "It is March 2025 in India. Police are registering a case for: procedure when bond is forfeited. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 491 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 13,
+  "instruction": "Section 269 of the Indian Penal Code, 1860 (Negligent Act Likely to Spread Infection of Disease) has been replaced by which section of the Bharatiya Nyaya Sanhita, 2023? Answer with the section number.",
+  "response": "Section 271 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 14,
+  "instruction": "Section 271 of the Bharatiya Nyaya Sanhita, 2023 corresponds to which section of the repealed Indian Penal Code, 1860? Answer with the section number.",
+  "response": "Section 269 of the Indian Penal Code, 1860."
+ },
+ {
+  "sample_num": 15,
+  "instruction": "It is March 2025 in India. Police are registering a case for: negligent act likely to spread infection of disease. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 271 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 16,
+  "instruction": "Section 50A of the Code of Criminal Procedure, 1973 (Obligation to Inform Family of Arrest) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.",
+  "response": "Section 48 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 17,
+  "instruction": "Section 48 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.",
+  "response": "Section 50A of the Code of Criminal Procedure, 1973."
+ },
+ {
+  "sample_num": 18,
+  "instruction": "It is March 2025 in India. Police are registering a case for: obligation to inform family of arrest. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 48 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 19,
+  "instruction": "Section 457 of the Code of Criminal Procedure, 1973 (Procedure by Police Upon Seizure of Property) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.",
+  "response": "Section 503 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 20,
+  "instruction": "Section 503 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.",
+  "response": "Section 457 of the Code of Criminal Procedure, 1973."
+ },
+ {
+  "sample_num": 21,
+  "instruction": "It is March 2025 in India. Police are registering a case for: procedure by police upon seizure of property. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 503 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 22,
+  "instruction": "Section 467 of the Indian Penal Code, 1860 (Forgery of Valuable Security, Will, etc.) has been replaced by which section of the Bharatiya Nyaya Sanhita, 2023? Answer with the section number.",
+  "response": "Section 338 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 23,
+  "instruction": "Section 338 of the Bharatiya Nyaya Sanhita, 2023 corresponds to which section of the repealed Indian Penal Code, 1860? Answer with the section number.",
+  "response": "Section 467 of the Indian Penal Code, 1860."
+ },
+ {
+  "sample_num": 24,
+  "instruction": "It is March 2025 in India. Police are registering a case for: forgery of valuable security, will, etc.. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 338 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 25,
+  "instruction": "Section 427 of the Code of Criminal Procedure, 1973 (Sentence on Offender Already Sentenced) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.",
+  "response": "Section 467 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 26,
+  "instruction": "Section 467 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.",
+  "response": "Section 427 of the Code of Criminal Procedure, 1973."
+ },
+ {
+  "sample_num": 27,
+  "instruction": "It is March 2025 in India. Police are registering a case for: sentence on offender already sentenced. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 467 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 28,
+  "instruction": "Section 129 of the Code of Criminal Procedure, 1973 (Dispersal of Unlawful Assembly) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.",
+  "response": "Section 148 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 29,
+  "instruction": "Section 148 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.",
+  "response": "Section 129 of the Code of Criminal Procedure, 1973."
+ },
+ {
+  "sample_num": 30,
+  "instruction": "It is March 2025 in India. Police are registering a case for: dispersal of unlawful assembly. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 148 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 31,
+  "instruction": "Section 34 of the Indian Penal Code, 1860 (Acts Done by Several Persons in Furtherance of Common Intention) has been replaced by which section of the Bharatiya Nyaya Sanhita, 2023? Answer with the section number.",
+  "response": "Section 3 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 32,
+  "instruction": "Section 3 of the Bharatiya Nyaya Sanhita, 2023 corresponds to which section of the repealed Indian Penal Code, 1860? Answer with the section number.",
+  "response": "Section 34 of the Indian Penal Code, 1860."
+ },
+ {
+  "sample_num": 33,
+  "instruction": "It is March 2025 in India. Police are registering a case for: acts done by several persons in furtherance of common intention. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 3 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 34,
+  "instruction": "Section 178 of the Code of Criminal Procedure, 1973 (Place of Inquiry or Trial When Act is an Offence by Reason of Relation to Other Offence) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.",
+  "response": "Section 198 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 35,
+  "instruction": "Section 198 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.",
+  "response": "Section 178 of the Code of Criminal Procedure, 1973."
+ },
+ {
+  "sample_num": 36,
+  "instruction": "It is March 2025 in India. Police are registering a case for: place of inquiry or trial when act is an offence by reason of relation to other offence. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 198 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 37,
+  "instruction": "Section 302 of the Indian Penal Code, 1860 (Punishment for Murder) has been replaced by which section of the Bharatiya Nyaya Sanhita, 2023? Answer with the section number.",
+  "response": "Section 103 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 38,
+  "instruction": "Section 103 of the Bharatiya Nyaya Sanhita, 2023 corresponds to which section of the repealed Indian Penal Code, 1860? Answer with the section number.",
+  "response": "Section 302 of the Indian Penal Code, 1860."
+ },
+ {
+  "sample_num": 39,
+  "instruction": "It is March 2025 in India. Police are registering a case for: punishment for murder. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 103 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 40,
+  "instruction": "Section 265D of the Code of Criminal Procedure, 1973 (Report of Mutually Satisfactory Disposition to Court) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.",
+  "response": "Section 292 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 41,
+  "instruction": "Section 292 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.",
+  "response": "Section 265D of the Code of Criminal Procedure, 1973."
+ },
+ {
+  "sample_num": 42,
+  "instruction": "It is March 2025 in India. Police are registering a case for: report of mutually satisfactory disposition to court. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 292 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 43,
+  "instruction": "Section 401 of the Code of Criminal Procedure, 1973 (High Court's Power of Revision) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.",
+  "response": "Section 442 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 44,
+  "instruction": "Section 442 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.",
+  "response": "Section 401 of the Code of Criminal Procedure, 1973."
+ },
+ {
+  "sample_num": 45,
+  "instruction": "It is March 2025 in India. Police are registering a case for: high court's power of revision. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 442 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 46,
+  "instruction": "Section 65B of the Indian Evidence Act, 1872 (Admissibility of electronic records) has been replaced by which section of the Bharatiya Sakshya Adhiniyam, 2023? Answer with the section number.",
+  "response": "Section 63 of the Bharatiya Sakshya Adhiniyam, 2023."
+ },
+ {
+  "sample_num": 47,
+  "instruction": "Section 63 of the Bharatiya Sakshya Adhiniyam, 2023 corresponds to which section of the repealed Indian Evidence Act, 1872? Answer with the section number.",
+  "response": "Section 65B of the Indian Evidence Act, 1872."
+ },
+ {
+  "sample_num": 48,
+  "instruction": "It is March 2025 in India. Police are registering a case for: admissibility of electronic records. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 63 of the Bharatiya Sakshya Adhiniyam, 2023."
+ },
+ {
+  "sample_num": 49,
+  "instruction": "Section 468 of the Code of Criminal Procedure, 1973 (Bar to Taking Cognizance After Lapse of Period of Limitation) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.",
+  "response": "Section 514 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 50,
+  "instruction": "Section 514 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.",
+  "response": "Section 468 of the Code of Criminal Procedure, 1973."
+ },
+ {
+  "sample_num": 51,
+  "instruction": "It is March 2025 in India. Police are registering a case for: bar to taking cognizance after lapse of period of limitation. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 514 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 52,
+  "instruction": "Section 197 of the Code of Criminal Procedure, 1973 (Prosecution of judges and public servants) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.",
+  "response": "Section 218 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 53,
+  "instruction": "Section 218 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.",
+  "response": "Section 197 of the Code of Criminal Procedure, 1973."
+ },
+ {
+  "sample_num": 54,
+  "instruction": "It is March 2025 in India. Police are registering a case for: prosecution of judges and public servants. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 218 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 55,
+  "instruction": "Section 436A of the Code of Criminal Procedure, 1973 (Maximum Period for Which Undertrial Prisoner Can Be Detained) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.",
+  "response": "Section 479 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 56,
+  "instruction": "Section 479 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.",
+  "response": "Section 436A of the Code of Criminal Procedure, 1973."
+ },
+ {
+  "sample_num": 57,
+  "instruction": "It is March 2025 in India. Police are registering a case for: maximum period for which undertrial prisoner can be detained. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 479 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 58,
+  "instruction": "Section 245 of the Code of Criminal Procedure, 1973 (When Accused Shall Be Discharged or Charge Framed) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.",
+  "response": "Section 268 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 59,
+  "instruction": "Section 268 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.",
+  "response": "Section 245 of the Code of Criminal Procedure, 1973."
+ },
+ {
+  "sample_num": 60,
+  "instruction": "It is March 2025 in India. Police are registering a case for: when accused shall be discharged or charge framed. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 268 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 61,
+  "instruction": "Section 376D of the Indian Penal Code, 1860 (Gang Rape) has been replaced by which section of the Bharatiya Nyaya Sanhita, 2023? Answer with the section number.",
+  "response": "Section 70 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 62,
+  "instruction": "Section 70 of the Bharatiya Nyaya Sanhita, 2023 corresponds to which section of the repealed Indian Penal Code, 1860? Answer with the section number.",
+  "response": "Section 376D of the Indian Penal Code, 1860."
+ },
+ {
+  "sample_num": 63,
+  "instruction": "It is March 2025 in India. Police are registering a case for: gang rape. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 70 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 64,
+  "instruction": "Section 27 of the Indian Evidence Act, 1872 (How much of information received from accused may be proved (discovery statements)) has been replaced by which section of the Bharatiya Sakshya Adhiniyam, 2023? Answer with the section number.",
+  "response": "Section 23 of the Bharatiya Sakshya Adhiniyam, 2023."
+ },
+ {
+  "sample_num": 65,
+  "instruction": "Section 23 of the Bharatiya Sakshya Adhiniyam, 2023 corresponds to which section of the repealed Indian Evidence Act, 1872? Answer with the section number.",
+  "response": "Section 27 of the Indian Evidence Act, 1872."
+ },
+ {
+  "sample_num": 66,
+  "instruction": "It is March 2025 in India. Police are registering a case for: how much of information received from accused may be proved (discovery statements). Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 23 of the Bharatiya Sakshya Adhiniyam, 2023."
+ },
+ {
+  "sample_num": 67,
+  "instruction": "Section 477A of the Indian Penal Code, 1860 (Falsification of Accounts) has been replaced by which section of the Bharatiya Nyaya Sanhita, 2023? Answer with the section number.",
+  "response": "Section 344 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 68,
+  "instruction": "Section 344 of the Bharatiya Nyaya Sanhita, 2023 corresponds to which section of the repealed Indian Penal Code, 1860? Answer with the section number.",
+  "response": "Section 477A of the Indian Penal Code, 1860."
+ },
+ {
+  "sample_num": 69,
+  "instruction": "It is March 2025 in India. Police are registering a case for: falsification of accounts. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 344 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 70,
+  "instruction": "Section 127 of the Code of Criminal Procedure, 1973 (Alteration in Allowance) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.",
+  "response": "Section 146 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 71,
+  "instruction": "Section 146 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.",
+  "response": "Section 127 of the Code of Criminal Procedure, 1973."
+ },
+ {
+  "sample_num": 72,
+  "instruction": "It is March 2025 in India. Police are registering a case for: alteration in allowance. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 146 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 73,
+  "instruction": "Section 41 of the Code of Criminal Procedure, 1973 (When Police May Arrest Without Warrant) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.",
+  "response": "Section 35 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 74,
+  "instruction": "Section 35 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.",
+  "response": "Section 41 of the Code of Criminal Procedure, 1973."
+ },
+ {
+  "sample_num": 75,
+  "instruction": "It is March 2025 in India. Police are registering a case for: when police may arrest without warrant. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 35 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 76,
+  "instruction": "Section 211 of the Indian Penal Code, 1860 (False Charge of Offence Made with Intent to Injure) has been replaced by which section of the Bharatiya Nyaya Sanhita, 2023? Answer with the section number.",
+  "response": "Section 248 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 77,
+  "instruction": "Section 248 of the Bharatiya Nyaya Sanhita, 2023 corresponds to which section of the repealed Indian Penal Code, 1860? Answer with the section number.",
+  "response": "Section 211 of the Indian Penal Code, 1860."
+ },
+ {
+  "sample_num": 78,
+  "instruction": "It is March 2025 in India. Police are registering a case for: false charge of offence made with intent to injure. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 248 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 79,
+  "instruction": "Section 482 of the Code of Criminal Procedure, 1973 (Saving of Inherent Powers of High Court) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.",
+  "response": "Section 528 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 80,
+  "instruction": "Section 528 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.",
+  "response": "Section 482 of the Code of Criminal Procedure, 1973."
+ },
+ {
+  "sample_num": 81,
+  "instruction": "It is March 2025 in India. Police are registering a case for: saving of inherent powers of high court. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 528 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 82,
+  "instruction": "Section 304B of the Indian Penal Code, 1860 (Dowry Death) has been replaced by which section of the Bharatiya Nyaya Sanhita, 2023? Answer with the section number.",
+  "response": "Section 80 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 83,
+  "instruction": "Section 80 of the Bharatiya Nyaya Sanhita, 2023 corresponds to which section of the repealed Indian Penal Code, 1860? Answer with the section number.",
+  "response": "Section 304B of the Indian Penal Code, 1860."
+ },
+ {
+  "sample_num": 84,
+  "instruction": "It is March 2025 in India. Police are registering a case for: dowry death. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 80 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 85,
+  "instruction": "Section 157 of the Code of Criminal Procedure, 1973 (Procedure for Investigation) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.",
+  "response": "Section 176 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 86,
+  "instruction": "Section 176 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.",
+  "response": "Section 157 of the Code of Criminal Procedure, 1973."
+ },
+ {
+  "sample_num": 87,
+  "instruction": "It is March 2025 in India. Police are registering a case for: procedure for investigation. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 176 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 88,
+  "instruction": "Section 227 of the Code of Criminal Procedure, 1973 (Discharge (Sessions Trial)) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.",
+  "response": "Section 250 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 89,
+  "instruction": "Section 250 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.",
+  "response": "Section 227 of the Code of Criminal Procedure, 1973."
+ },
+ {
+  "sample_num": 90,
+  "instruction": "It is March 2025 in India. Police are registering a case for: discharge (sessions trial). Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 250 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 91,
+  "instruction": "Section 311 of the Code of Criminal Procedure, 1973 (Power to Summon Material Witness) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.",
+  "response": "Section 348 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 92,
+  "instruction": "Section 348 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.",
+  "response": "Section 311 of the Code of Criminal Procedure, 1973."
+ },
+ {
+  "sample_num": 93,
+  "instruction": "It is March 2025 in India. Police are registering a case for: power to summon material witness. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 348 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 94,
+  "instruction": "Section 395 of the Indian Penal Code, 1860 (Punishment for Dacoity) has been replaced by which section of the Bharatiya Nyaya Sanhita, 2023? Answer with the section number.",
+  "response": "Section 310 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 95,
+  "instruction": "Section 310 of the Bharatiya Nyaya Sanhita, 2023 corresponds to which section of the repealed Indian Penal Code, 1860? Answer with the section number.",
+  "response": "Section 395 of the Indian Penal Code, 1860."
+ },
+ {
+  "sample_num": 96,
+  "instruction": "It is March 2025 in India. Police are registering a case for: punishment for dacoity. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 310 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 97,
+  "instruction": "Section 265B of the Code of Criminal Procedure, 1973 (Guidelines for Plea Bargaining) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.",
+  "response": "Section 290 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 98,
+  "instruction": "Section 290 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.",
+  "response": "Section 265B of the Code of Criminal Procedure, 1973."
+ },
+ {
+  "sample_num": 99,
+  "instruction": "It is March 2025 in India. Police are registering a case for: guidelines for plea bargaining. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 290 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 100,
+  "instruction": "Section 470 of the Code of Criminal Procedure, 1973 (Exclusion of Time in Certain Cases) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.",
+  "response": "Section 516 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 101,
+  "instruction": "Section 516 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.",
+  "response": "Section 470 of the Code of Criminal Procedure, 1973."
+ },
+ {
+  "sample_num": 102,
+  "instruction": "It is March 2025 in India. Police are registering a case for: exclusion of time in certain cases. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 516 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 103,
+  "instruction": "Section 248 of the Code of Criminal Procedure, 1973 (Conviction or Acquittal (Warrant Case)) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.",
+  "response": "Section 271 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 104,
+  "instruction": "Section 271 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.",
+  "response": "Section 248 of the Code of Criminal Procedure, 1973."
+ },
+ {
+  "sample_num": 105,
+  "instruction": "It is March 2025 in India. Police are registering a case for: conviction or acquittal (warrant case). Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 271 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 106,
+  "instruction": "Section 141 of the Indian Penal Code, 1860 (Unlawful Assembly) has been replaced by which section of the Bharatiya Nyaya Sanhita, 2023? Answer with the section number.",
+  "response": "Section 189 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 107,
+  "instruction": "Section 189 of the Bharatiya Nyaya Sanhita, 2023 corresponds to which section of the repealed Indian Penal Code, 1860? Answer with the section number.",
+  "response": "Section 141 of the Indian Penal Code, 1860."
+ },
+ {
+  "sample_num": 108,
+  "instruction": "It is March 2025 in India. Police are registering a case for: unlawful assembly. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 189 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 109,
+  "instruction": "Section 354B of the Indian Penal Code, 1860 (Assault or Use of Criminal Force to Woman with Intent to Disrobe) has been replaced by which section of the Bharatiya Nyaya Sanhita, 2023? Answer with the section number.",
+  "response": "Section 76 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 110,
+  "instruction": "Section 76 of the Bharatiya Nyaya Sanhita, 2023 corresponds to which section of the repealed Indian Penal Code, 1860? Answer with the section number.",
+  "response": "Section 354B of the Indian Penal Code, 1860."
+ },
+ {
+  "sample_num": 111,
+  "instruction": "It is March 2025 in India. Police are registering a case for: assault or use of criminal force to woman with intent to disrobe. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 76 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 112,
+  "instruction": "Section 149 of the Indian Penal Code, 1860 (Every member of unlawful assembly guilty of offence committed in prosecution of common object) has been replaced by which section of the Bharatiya Nyaya Sanhita, 2023? Answer with the section number.",
+  "response": "Section 190 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 113,
+  "instruction": "Section 190 of the Bharatiya Nyaya Sanhita, 2023 corresponds to which section of the repealed Indian Penal Code, 1860? Answer with the section number.",
+  "response": "Section 149 of the Indian Penal Code, 1860."
+ },
+ {
+  "sample_num": 114,
+  "instruction": "It is March 2025 in India. Police are registering a case for: every member of unlawful assembly guilty of offence committed in prosecution of common object. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 190 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 115,
+  "instruction": "Section 212 of the Code of Criminal Procedure, 1973 (Particulars as to Time, Place and Person) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.",
+  "response": "Section 235 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 116,
+  "instruction": "Section 235 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.",
+  "response": "Section 212 of the Code of Criminal Procedure, 1973."
+ },
+ {
+  "sample_num": 117,
+  "instruction": "It is March 2025 in India. Police are registering a case for: particulars as to time, place and person. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 235 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 118,
+  "instruction": "Section 160 of the Code of Criminal Procedure, 1973 (Police Officer's Power to Require Attendance) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.",
+  "response": "Section 179 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 119,
+  "instruction": "Section 179 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.",
+  "response": "Section 160 of the Code of Criminal Procedure, 1973."
+ },
+ {
+  "sample_num": 120,
+  "instruction": "It is March 2025 in India. Police are registering a case for: police officer's power to require attendance. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 179 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 121,
+  "instruction": "Section 170 of the Indian Penal Code, 1860 (Personating a Public Servant) has been replaced by which section of the Bharatiya Nyaya Sanhita, 2023? Answer with the section number.",
+  "response": "Section 204 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 122,
+  "instruction": "Section 204 of the Bharatiya Nyaya Sanhita, 2023 corresponds to which section of the repealed Indian Penal Code, 1860? Answer with the section number.",
+  "response": "Section 170 of the Indian Penal Code, 1860."
+ },
+ {
+  "sample_num": 123,
+  "instruction": "It is March 2025 in India. Police are registering a case for: personating a public servant. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 204 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 124,
+  "instruction": "Section 254 of the Code of Criminal Procedure, 1973 (Acquittal or Conviction (Summons Case)) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.",
+  "response": "Section 277 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 125,
+  "instruction": "Section 277 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.",
+  "response": "Section 254 of the Code of Criminal Procedure, 1973."
+ },
+ {
+  "sample_num": 126,
+  "instruction": "It is March 2025 in India. Police are registering a case for: acquittal or conviction (summons case). Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 277 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 127,
+  "instruction": "Section 143 of the Indian Penal Code, 1860 (Unlawful assembly (punishment for being member)) has been replaced by which section of the Bharatiya Nyaya Sanhita, 2023? Answer with the section number.",
+  "response": "Section 189 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 128,
+  "instruction": "Section 189 of the Bharatiya Nyaya Sanhita, 2023 corresponds to which section of the repealed Indian Penal Code, 1860? Answer with the section number.",
+  "response": "Section 143 of the Indian Penal Code, 1860."
+ },
+ {
+  "sample_num": 129,
+  "instruction": "It is March 2025 in India. Police are registering a case for: unlawful assembly (punishment for being member). Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 189 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 130,
+  "instruction": "Section 447 of the Code of Criminal Procedure, 1973 (Procedure in Case of Insolvency of Surety) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.",
+  "response": "Section 492 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 131,
+  "instruction": "Section 492 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.",
+  "response": "Section 447 of the Code of Criminal Procedure, 1973."
+ },
+ {
+  "sample_num": 132,
+  "instruction": "It is March 2025 in India. Police are registering a case for: procedure in case of insolvency of surety. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 492 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 133,
+  "instruction": "Section 164 of the Code of Criminal Procedure, 1973 (Recording of Confessions and Statements) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.",
+  "response": "Section 183 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 134,
+  "instruction": "Section 183 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.",
+  "response": "Section 164 of the Code of Criminal Procedure, 1973."
+ },
+ {
+  "sample_num": 135,
+  "instruction": "It is March 2025 in India. Police are registering a case for: recording of confessions and statements. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 183 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 136,
+  "instruction": "Section 420 of the Indian Penal Code, 1860 (Cheating and Dishonestly Inducing Delivery of Property) has been replaced by which section of the Bharatiya Nyaya Sanhita, 2023? Answer with the section number.",
+  "response": "Section 318 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 137,
+  "instruction": "Section 318 of the Bharatiya Nyaya Sanhita, 2023 corresponds to which section of the repealed Indian Penal Code, 1860? Answer with the section number.",
+  "response": "Section 420 of the Indian Penal Code, 1860."
+ },
+ {
+  "sample_num": 138,
+  "instruction": "It is March 2025 in India. Police are registering a case for: cheating and dishonestly inducing delivery of property. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 318 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 139,
+  "instruction": "Section 216 of the Code of Criminal Procedure, 1973 (Court May Alter Charge) has been replaced by which section of the Bharatiya Nagarik Suraksha Sanhita, 2023? Answer with the section number.",
+  "response": "Section 239 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 140,
+  "instruction": "Section 239 of the Bharatiya Nagarik Suraksha Sanhita, 2023 corresponds to which section of the repealed Code of Criminal Procedure, 1973? Answer with the section number.",
+  "response": "Section 216 of the Code of Criminal Procedure, 1973."
+ },
+ {
+  "sample_num": 141,
+  "instruction": "It is March 2025 in India. Police are registering a case for: court may alter charge. Under which section of the law currently in force should it be registered? Answer with the act and section number.",
+  "response": "Section 239 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 142,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Punishment for false evidence\"? Answer with the section number.",
+  "response": "Section 229 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 143,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Committing depredation on territories of foreign State at peace with Government of India\"? Answer with the section number.",
+  "response": "Section 154 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 144,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Power to impound document, etc., produced\"? Answer with the section number.",
+  "response": "Section 109 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 145,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Search of arrested person\"? Answer with the section number.",
+  "response": "Section 49 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 146,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Sentence on offender already sentenced for another offence\"? Answer with the section number.",
+  "response": "Section 467 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 147,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Sexual intercourse by husband upon his wife during separation\"? Answer with the section number.",
+  "response": "Section 67 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 148,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Judgment of Court\"? Answer with the section number.",
+  "response": "Section 294 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 149,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Form of summons\"? Answer with the section number.",
+  "response": "Section 63 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 150,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Power of High Court to confirm sentence or annul conviction\"? Answer with the section number.",
+  "response": "Section 409 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 151,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Power to stop proceedings in certain cases\"? Answer with the section number.",
+  "response": "Section 282 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 152,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Printing or publishing any matter relating to Court proceedings without permission\"? Answer with the section number.",
+  "response": "Section 73 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 153,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Misconduct in public by a drunken person\"? Answer with the section number.",
+  "response": "Section 355 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 154,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Cases in which Judge or Magistrate is personally interested\"? Answer with the section number.",
+  "response": "Section 524 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 155,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Recording of search and seizure through audiovideo electronic means\"? Answer with the section number.",
+  "response": "Section 105 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 156,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Injuring or defiling place of worship with intent to insult religion of any class\"? Answer with the section number.",
+  "response": "Section 298 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 157,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Security for keeping peace on conviction\"? Answer with the section number.",
+  "response": "Section 125 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 158,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Power of police officer to seize certain property\"? Answer with the section number.",
+  "response": "Section 106 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 159,
+  "instruction": "Which section of the Bharatiya Sakshya Adhiniyam, 2023 is titled \"Burden of proving fact especially within knowledge\"? Answer with the section number.",
+  "response": "Section 109 of the Bharatiya Sakshya Adhiniyam, 2023."
+ },
+ {
+  "sample_num": 160,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Every member of unlawful assembly guilty of offence committed in prosecution of common object\"? Answer with the section number.",
+  "response": "Section 190 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 161,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Appeal in case of acquittal\"? Answer with the section number.",
+  "response": "Section 420 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 162,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Procedure for summary trials\"? Answer with the section number.",
+  "response": "Section 285 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 163,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Attempt to murder\"? Answer with the section number.",
+  "response": "Section 109 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 164,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Statements conducing to public mischief\"? Answer with the section number.",
+  "response": "Section 352 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 165,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Claims and objections to attachment\"? Answer with the section number.",
+  "response": "Section 87 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 166,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Abetment of suicide\"? Answer with the section number.",
+  "response": "Section 108 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 167,
+  "instruction": "Which section of the Bharatiya Sakshya Adhiniyam, 2023 is titled \"Competency of husband and wife as witnesses in certain cases. Judges and Magistrates\"? Answer with the section number.",
+  "response": "Section 127 of the Bharatiya Sakshya Adhiniyam, 2023."
+ },
+ {
+  "sample_num": 168,
+  "instruction": "Which section of the Bharatiya Sakshya Adhiniyam, 2023 is titled \"Proof of document not required by law to be attested\"? Answer with the section number.",
+  "response": "Section 71 of the Bharatiya Sakshya Adhiniyam, 2023."
+ },
+ {
+  "sample_num": 169,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Kidnapping, abducting or inducing woman to compel her marriage, etc\"? Answer with the section number.",
+  "response": "Section 88 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 170,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Imprisonment in default of security\"? Answer with the section number.",
+  "response": "Section 141 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 171,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Reasons to be recorded\"? Answer with the section number.",
+  "response": "Section 452 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 172,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Identification of person arrested\"? Answer with the section number.",
+  "response": "Section 54 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 173,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Judgment of acquittal or conviction\"? Answer with the section number.",
+  "response": "Section 258 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 174,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Withdrawal of cases and appeals by Sessions Judges\"? Answer with the section number.",
+  "response": "Section 449 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 175,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Attachment of property of person absconding\"? Answer with the section number.",
+  "response": "Section 85 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 176,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Offence requiring a particular intent or knowledge committed by one who is intoxicated\"? Answer with the section number.",
+  "response": "Section 23 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 177,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Commutation of sentence of death on pregnant woman\"? Answer with the section number.",
+  "response": "Section 456 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 178,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Dishonest or fraudulent execution of deed of transfer containing false statement of consideration\"? Answer with the section number.",
+  "response": "Section 322 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 179,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Power to sell perishable property\"? Answer with the section number.",
+  "response": "Section 506 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 180,
+  "instruction": "Which section of the Bharatiya Sakshya Adhiniyam, 2023 is titled \"Previous judgments relevant to bar a second suit or trial\"? Answer with the section number.",
+  "response": "Section 34 of the Bharatiya Sakshya Adhiniyam, 2023."
+ },
+ {
+  "sample_num": 181,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Dispute concerning right of use of land or water\"? Answer with the section number.",
+  "response": "Section 167 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 182,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Candidate, electoral right defined\"? Answer with the section number.",
+  "response": "Section 169 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 183,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Withdrawal of powers\"? Answer with the section number.",
+  "response": "Section 28 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 184,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Procedure by Magistrate not competent to take cognizance of case. Postponement of issue of process\"? Answer with the section number.",
+  "response": "Section 226 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 185,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Place of inquiry or trial\"? Answer with the section number.",
+  "response": "Section 198 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 186,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Inquiry by Magistrate into cause of death\"? Answer with the section number.",
+  "response": "Section 196 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 187,
+  "instruction": "Which section of the Bharatiya Sakshya Adhiniyam, 2023 is titled \"Comparison of signature, writing or seal with others admitted or proved\"? Answer with the section number.",
+  "response": "Section 72 of the Bharatiya Sakshya Adhiniyam, 2023."
+ },
+ {
+  "sample_num": 188,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Prevention of injury to public property\"? Answer with the section number.",
+  "response": "Section 171 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 189,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Remarks respecting demeanour of witness\"? Answer with the section number.",
+  "response": "Section 315 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 190,
+  "instruction": "Which section of the Bharatiya Sakshya Adhiniyam, 2023 is titled \"Estoppel of tenant and of licensee of person in possession\"? Answer with the section number.",
+  "response": "Section 122 of the Bharatiya Sakshya Adhiniyam, 2023."
+ },
+ {
+  "sample_num": 191,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Commission to whom to be issued\"? Answer with the section number.",
+  "response": "Section 320 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 192,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Power to take bond or bail bond for appearance\"? Answer with the section number.",
+  "response": "Section 91 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 193,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Liability of abettor when one act abetted and different act done\"? Answer with the section number.",
+  "response": "Section 51 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 194,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Omission to give notice or information to public servant by person legally bound to give it\"? Answer with the section number.",
+  "response": "Section 211 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 195,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Attachment, forfeiture or restoration of property\"? Answer with the section number.",
+  "response": "Section 107 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 196,
+  "instruction": "Which section of the Bharatiya Sakshya Adhiniyam, 2023 is titled \"Facts of which Court shall take judicial notice\"? Answer with the section number.",
+  "response": "Section 52 of the Bharatiya Sakshya Adhiniyam, 2023."
+ },
+ {
+  "sample_num": 197,
+  "instruction": "Which section of the Bharatiya Sakshya Adhiniyam, 2023 is titled \"Facts relevant when right or custom is in question\"? Answer with the section number.",
+  "response": "Section 11 of the Bharatiya Sakshya Adhiniyam, 2023."
+ },
+ {
+  "sample_num": 198,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Reports of certain Government scientific experts\"? Answer with the section number.",
+  "response": "Section 329 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 199,
+  "instruction": "Which section of the Bharatiya Sakshya Adhiniyam, 2023 is titled \"Burden of proof as to ownership\"? Answer with the section number.",
+  "response": "Section 113 of the Bharatiya Sakshya Adhiniyam, 2023."
+ },
+ {
+  "sample_num": 200,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Waging war against Government of any foreign State at peace with Government of India\"? Answer with the section number.",
+  "response": "Section 153 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 201,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Enticing or taking away or detaining with criminal intent a married woman\"? Answer with the section number.",
+  "response": "Section 84 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 202,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Application of this Chapter\"? Answer with the section number.",
+  "response": "Section 124 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 203,
+  "instruction": "Which section of the Bharatiya Sakshya Adhiniyam, 2023 is titled \"Admissions not conclusive proof, but may estop\"? Answer with the section number.",
+  "response": "Section 25 of the Bharatiya Sakshya Adhiniyam, 2023."
+ },
+ {
+  "sample_num": 204,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Execution of sentence of imprisonment\"? Answer with the section number.",
+  "response": "Section 458 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 205,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Letter of request to competent authority for investigation in a country or place outside India\"? Answer with the section number.",
+  "response": "Section 112 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 206,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Refusing oath or affirmation when duly required by public servant to make it\"? Answer with the section number.",
+  "response": "Section 213 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 207,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Person arrested to be informed of grounds of arrest and of right to bail\"? Answer with the section number.",
+  "response": "Section 47 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 208,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Concealing design to commit offence punishable with death or imprisonment for life\"? Answer with the section number.",
+  "response": "Section 58 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 209,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Person arrested to be taken before Magistrate or officer in charge of police station\"? Answer with the section number.",
+  "response": "Section 57 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 210,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Aid to person, other than police officer, executing warrant\"? Answer with the section number.",
+  "response": "Section 32 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 211,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Voluntarily causing hurt or grievous hurt on provocation\"? Answer with the section number.",
+  "response": "Section 122 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 212,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Trial of person not complying with conditions of pardon\"? Answer with the section number.",
+  "response": "Section 345 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 213,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Making over of cases to Magistrates\"? Answer with the section number.",
+  "response": "Section 212 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 214,
+  "instruction": "Which section of the Bharatiya Sakshya Adhiniyam, 2023 is titled \"Presumption as to Gazettes, newspapers, and other documents\"? Answer with the section number.",
+  "response": "Section 80 of the Bharatiya Sakshya Adhiniyam, 2023."
+ },
+ {
+  "sample_num": 215,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Commitment of case to Court of Session when offence is triable exclusively by it\"? Answer with the section number.",
+  "response": "Section 232 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 216,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Warrant directed to police officer for execution outside jurisdiction\"? Answer with the section number.",
+  "response": "Section 81 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 217,
+  "instruction": "Which section of the Bharatiya Sakshya Adhiniyam, 2023 is titled \"Electronic or digital record\"? Answer with the section number.",
+  "response": "Section 61 of the Bharatiya Sakshya Adhiniyam, 2023."
+ },
+ {
+  "sample_num": 218,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Procedure in respect of letter of request\"? Answer with the section number.",
+  "response": "Section 123 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 219,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Evidence of officers of Mint\"? Answer with the section number.",
+  "response": "Section 328 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 220,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Disobedience to order duly promulgated by public servant\"? Answer with the section number.",
+  "response": "Section 223 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 221,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Offences of same kind within year may be charged together\"? Answer with the section number.",
+  "response": "Section 242 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 222,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Short title, commencement and application\"? Answer with the section number.",
+  "response": "Section 1 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 223,
+  "instruction": "Which section of the Bharatiya Sakshya Adhiniyam, 2023 is titled \"Confession caused by inducement, threat, coercion or promise, when irrelevant in criminal proceeding\"? Answer with the section number.",
+  "response": "Section 22 of the Bharatiya Sakshya Adhiniyam, 2023."
+ },
+ {
+  "sample_num": 224,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Procedure as to letters\"? Answer with the section number.",
+  "response": "Section 95 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 225,
+  "instruction": "Which section of the Bharatiya Sakshya Adhiniyam, 2023 is titled \"Evidence as to application of language which can apply to one only of several persons\"? Answer with the section number.",
+  "response": "Section 100 of the Bharatiya Sakshya Adhiniyam, 2023."
+ },
+ {
+  "sample_num": 226,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Abetment of act of insubordination by soldier, sailor or airman\"? Answer with the section number.",
+  "response": "Section 165 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 227,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Destruction of libellous and other matter\"? Answer with the section number.",
+  "response": "Section 501 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 228,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Magistrate may dispense with personal attendance of accused\"? Answer with the section number.",
+  "response": "Section 228 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 229,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Proceedings in wrong place\"? Answer with the section number.",
+  "response": "Section 508 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 230,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Power of certain armed force officers to disperse assembly\"? Answer with the section number.",
+  "response": "Section 151 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 231,
+  "instruction": "Which section of the Bharatiya Sakshya Adhiniyam, 2023 is titled \"Giving, as evidence, of document called for and produced on notice\"? Answer with the section number.",
+  "response": "Section 166 of the Bharatiya Sakshya Adhiniyam, 2023."
+ },
+ {
+  "sample_num": 232,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Procedure on order being made absolute and consequences of disobedience\"? Answer with the section number.",
+  "response": "Section 160 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 233,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Public servant disobeying law, with intent to cause injury to any person\"? Answer with the section number.",
+  "response": "Section 198 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 234,
+  "instruction": "Which section of the Bharatiya Sakshya Adhiniyam, 2023 is titled \"Burden of proof as to particular fact\"? Answer with the section number.",
+  "response": "Section 106 of the Bharatiya Sakshya Adhiniyam, 2023."
+ },
+ {
+  "sample_num": 235,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Directorate of Prosecution\"? Answer with the section number.",
+  "response": "Section 20 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 236,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Judgment in cases tried summarily\"? Answer with the section number.",
+  "response": "Section 287 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 237,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Undue influence at elections\"? Answer with the section number.",
+  "response": "Section 171 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 238,
+  "instruction": "Which section of the Bharatiya Sakshya Adhiniyam, 2023 is titled \"Birth during marriage, conclusive proof of legitimacy\"? Answer with the section number.",
+  "response": "Section 116 of the Bharatiya Sakshya Adhiniyam, 2023."
+ },
+ {
+  "sample_num": 239,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Procedure in case of difference of opinion\"? Answer with the section number.",
+  "response": "Section 411 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 240,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Report of investigation by subordinate police officer\"? Answer with the section number.",
+  "response": "Section 188 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 241,
+  "instruction": "Which section of the Bharatiya Sakshya Adhiniyam, 2023 is titled \"THE GAZETTE OF INDIA EXTRAORDINARY Facts admitted need not be proved\"? Answer with the section number.",
+  "response": "Section 53 of the Bharatiya Sakshya Adhiniyam, 2023."
+ },
+ {
+  "sample_num": 242,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Service or notification of order\"? Answer with the section number.",
+  "response": "Section 154 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 243,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Commencement and continuance of right of private defence of body\"? Answer with the section number.",
+  "response": "Section 39 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 244,
+  "instruction": "Which section of the Bharatiya Sakshya Adhiniyam, 2023 is titled \"Presumption as to electronic records five years old\"? Answer with the section number.",
+  "response": "Section 93 of the Bharatiya Sakshya Adhiniyam, 2023."
+ },
+ {
+  "sample_num": 245,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Judgment of acquittal on ground of unsoundness of mind\"? Answer with the section number.",
+  "response": "Section 375 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 246,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"No appeal in certain cases when accused pleads guilty\"? Answer with the section number.",
+  "response": "Section 416 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 247,
+  "instruction": "Which section of the Bharatiya Sakshya Adhiniyam, 2023 is titled \"Relevancy of statements in maps, charts and plans\"? Answer with the section number.",
+  "response": "Section 30 of the Bharatiya Sakshya Adhiniyam, 2023."
+ },
+ {
+  "sample_num": 248,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Order to give security\"? Answer with the section number.",
+  "response": "Section 136 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 249,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Expenses of complainants and witnesses\"? Answer with the section number.",
+  "response": "Section 350 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 250,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Punishment for attempting to commit offences punishable with imprisonment for life or other imprisonment\"? Answer with the section number.",
+  "response": "Section 62 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 251,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Record in warrant-cases\"? Answer with the section number.",
+  "response": "Section 310 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 252,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Rash navigation of vessel\"? Answer with the section number.",
+  "response": "Section 283 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 253,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Abatement of appeals\"? Answer with the section number.",
+  "response": "Section 435 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 254,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Giving or fabricating false evidence with intent to procure conviction of capital offence\"? Answer with the section number.",
+  "response": "Section 232 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 255,
+  "instruction": "Which section of the Bharatiya Sakshya Adhiniyam, 2023 is titled \"In civil cases character to prove conduct imputed, irrelevant\"? Answer with the section number.",
+  "response": "Section 46 of the Bharatiya Sakshya Adhiniyam, 2023."
+ },
+ {
+  "sample_num": 256,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Giving false information respecting an offence committed\"? Answer with the section number.",
+  "response": "Section 240 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 257,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Destruction of document or electronic record to prevent its production as evidence\"? Answer with the section number.",
+  "response": "Section 242 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 258,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Trial of persons previously convicted of offences against coinage, stamp-law or property\"? Answer with the section number.",
+  "response": "Section 363 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 259,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Abettor present when offence is committed\"? Answer with the section number.",
+  "response": "Section 54 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 260,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Warrants to whom directed\"? Answer with the section number.",
+  "response": "Section 74 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 261,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Cognizance of offences by Court of Session\"? Answer with the section number.",
+  "response": "Section 213 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 262,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Procedure in case of insolvency or death of surety or when a bond is forfeited\"? Answer with the section number.",
+  "response": "Section 493 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 263,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Word, gesture or act intended to insult modesty of a woman\"? Answer with the section number.",
+  "response": "Section 79 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 264,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Courts of Judicial Magistrates\"? Answer with the section number.",
+  "response": "Section 9 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 265,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Subordination of Executive Magistrates\"? Answer with the section number.",
+  "response": "Section 17 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 266,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Direction for grant of bail to person apprehending arrest\"? Answer with the section number.",
+  "response": "Section 482 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 267,
+  "instruction": "Which section of the Bharatiya Sakshya Adhiniyam, 2023 is titled \"Production of documents\"? Answer with the section number.",
+  "response": "Section 165 of the Bharatiya Sakshya Adhiniyam, 2023."
+ },
+ {
+  "sample_num": 268,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Date for prosecution evidence\"? Answer with the section number.",
+  "response": "Section 254 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 269,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Act endangering life or personal safety of others\"? Answer with the section number.",
+  "response": "Section 125 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 270,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Effect of errors\"? Answer with the section number.",
+  "response": "Section 238 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 271,
+  "instruction": "Which section of the Bharatiya Sakshya Adhiniyam, 2023 is titled \"Opinion as to existence of general custom or right, when relevant\"? Answer with the section number.",
+  "response": "Section 42 of the Bharatiya Sakshya Adhiniyam, 2023."
+ },
+ {
+  "sample_num": 272,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Assault or criminal force on grave provocation\"? Answer with the section number.",
+  "response": "Section 136 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 273,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Obstructing sale of property offered for sale by authority of public servant\"? Answer with the section number.",
+  "response": "Section 218 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 274,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Making a false mark upon any receptacle containing goods\"? Answer with the section number.",
+  "response": "Section 350 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 275,
+  "instruction": "Which section of the Bharatiya Sakshya Adhiniyam, 2023 is titled \"Presumption as to books, maps and charts\"? Answer with the section number.",
+  "response": "Section 89 of the Bharatiya Sakshya Adhiniyam, 2023."
+ },
+ {
+  "sample_num": 276,
+  "instruction": "Which section of the Bharatiya Sakshya Adhiniyam, 2023 is titled \"Presumption as to electronic messages\"? Answer with the section number.",
+  "response": "Section 90 of the Bharatiya Sakshya Adhiniyam, 2023."
+ },
+ {
+  "sample_num": 277,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"When accused appears to have been of sound mind\"? Answer with the section number.",
+  "response": "Section 373 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 278,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Power to commute sentence\"? Answer with the section number.",
+  "response": "Section 474 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 279,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Punishment for house-trespass or housebreaking\"? Answer with the section number.",
+  "response": "Section 332 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 280,
+  "instruction": "Which section of the Bharatiya Sakshya Adhiniyam, 2023 is titled \"Who may give evidence of agreement varying terms of document\"? Answer with the section number.",
+  "response": "Section 102 of the Bharatiya Sakshya Adhiniyam, 2023."
+ },
+ {
+  "sample_num": 281,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Voluntarily causing hurt\"? Answer with the section number.",
+  "response": "Section 114 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 282,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Sale, etc., of obscene books, etc\"? Answer with the section number.",
+  "response": "Section 294 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 283,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Conviction or commitment on evidence partly recorded by one Magistrate and partly by another\"? Answer with the section number.",
+  "response": "Section 365 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 284,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Omission to apprehend, or sufferance of escape, on part of public servant, in cases not otherwise provided for\"? Answer with the section number.",
+  "response": "Section 264 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 285,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Person once convicted or acquitted not to be tried for same offence\"? Answer with the section number.",
+  "response": "Section 337 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 286,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Attempt to commit culpable homicide\"? Answer with the section number.",
+  "response": "Section 110 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 287,
+  "instruction": "Which section of the Bharatiya Sakshya Adhiniyam, 2023 is titled \"Court may presume existence of certain facts\"? Answer with the section number.",
+  "response": "Section 119 of the Bharatiya Sakshya Adhiniyam, 2023."
+ },
+ {
+  "sample_num": 288,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Fine in lieu of forfeiture\"? Answer with the section number.",
+  "response": "Section 121 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 289,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Chief Judicial Magistrate and Additional Chief Judicial Magistrate, etc\"? Answer with the section number.",
+  "response": "Section 11 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 290,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Procedure by police upon seizure of property\"? Answer with the section number.",
+  "response": "Section 503 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 291,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Using as true a certificate known to be false\"? Answer with the section number.",
+  "response": "Section 234 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 292,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Cognizance of offences by Magistrate\"? Answer with the section number.",
+  "response": "Section 211 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 293,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Resistance or obstruction to lawful apprehension of another person\"? Answer with the section number.",
+  "response": "Section 263 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 294,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Adulteration of drugs\"? Answer with the section number.",
+  "response": "Section 276 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 295,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Prisoner to be brought to Court in custody\"? Answer with the section number.",
+  "response": "Section 305 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 296,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Theft in a dwelling house, or means of transportation or place of worship, etc\"? Answer with the section number.",
+  "response": "Section 304 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 297,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Refusing to sign statement\"? Answer with the section number.",
+  "response": "Section 216 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 298,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Commutation of sentence\"? Answer with the section number.",
+  "response": "Section 5 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 299,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Release of accused when evidence deficient\"? Answer with the section number.",
+  "response": "Section 190 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 300,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Using Government stamp known to have been before used\"? Answer with the section number.",
+  "response": "Section 184 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 301,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Receipt of evidence relating to offences committed outside India\"? Answer with the section number.",
+  "response": "Section 209 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 302,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Forgery of record of Court or of public register, etc\"? Answer with the section number.",
+  "response": "Section 338 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 303,
+  "instruction": "Which section of the Bharatiya Nyaya Sanhita, 2023 is titled \"Abetment outside India for offence in India\"? Answer with the section number.",
+  "response": "Section 48 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 304,
+  "instruction": "Which section of the Bharatiya Sakshya Adhiniyam, 2023 is titled \"Question by party to his own witness\"? Answer with the section number.",
+  "response": "Section 157 of the Bharatiya Sakshya Adhiniyam, 2023."
+ },
+ {
+  "sample_num": 305,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Power to seize offensive weapons\"? Answer with the section number.",
+  "response": "Section 51 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 306,
+  "instruction": "Which section of the Bharatiya Sakshya Adhiniyam, 2023 is titled \"Witness not excused from answering on ground that answer will criminate\"? Answer with the section number.",
+  "response": "Section 136 of the Bharatiya Sakshya Adhiniyam, 2023."
+ },
+ {
+  "sample_num": 307,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Defect or error not to make attachment unlawful\"? Answer with the section number.",
+  "response": "Section 512 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 308,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Court may alter charge\"? Answer with the section number.",
+  "response": "Section 239 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 309,
+  "instruction": "Which section of the Bharatiya Sakshya Adhiniyam, 2023 is titled \"Questions lawful in crossexamination\"? Answer with the section number.",
+  "response": "Section 149 of the Bharatiya Sakshya Adhiniyam, 2023."
+ },
+ {
+  "sample_num": 310,
+  "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Repeal and savings\"? Answer with the section number.",
+  "response": "Section 531 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ }
+]

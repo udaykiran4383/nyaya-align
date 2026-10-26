@@ -1,0 +1,3299 @@
+[
+ {
+  "old_code": "IPC",
+  "old": "166",
+  "new_act": "BNS",
+  "new": "198",
+  "title": "Public Servant Disobeying Law with Intent to Cause Injury",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 7,
+  "heading": "Public servant disobeying law, with intent to cause injury to any person.",
+  "split": "test"
+ },
+ {
+  "old_code": "IPC",
+  "old": "270",
+  "new_act": "BNS",
+  "new": "272",
+  "title": "Malignant Act Likely to Spread Infection of Disease",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 5,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "43",
+  "new_act": "BNSS",
+  "new": "40",
+  "title": "Arrest by Private Person",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "Arrest by private person and procedure on such arrest.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "374",
+  "new_act": "BNS",
+  "new": "146",
+  "title": "Unlawful Compulsory Labour",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "Unlawful compulsory labour.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "376",
+  "new_act": "BNS",
+  "new": "64",
+  "title": "Punishment for Rape",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "Punishment for rape.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "204",
+  "new_act": "BNSS",
+  "new": "227",
+  "title": "Issue of Process",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "Issue of process.",
+  "split": "test"
+ },
+ {
+  "old_code": "IPC",
+  "old": "298",
+  "new_act": "BNS",
+  "new": "302",
+  "title": "Uttering Words with Deliberate Intent to Wound Religious Feelings",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 7,
+  "heading": "Uttering words, etc., with deliberate intent to wound religious feelings of any person.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "341",
+  "new_act": "BNS",
+  "new": "126",
+  "title": "Wrongful Restraint",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "Wrongful restraint.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "133",
+  "new_act": "BNSS",
+  "new": "152",
+  "title": "Conditional Order for Removal of Nuisance",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "325",
+  "new_act": "BNS",
+  "new": "117",
+  "title": "Voluntarily Causing Grievous Hurt",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "Voluntarily causing grievous hurt.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "432",
+  "new_act": "BNSS",
+  "new": "473",
+  "title": "Power to Suspend or Remit Sentences",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "",
+  "split": "test"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "436",
+  "new_act": "BNSS",
+  "new": "478",
+  "title": "Bail in Bailable Offences",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "In what cases bail to be taken.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "397",
+  "new_act": "BNSS",
+  "new": "438",
+  "title": "Calling for Records to Exercise Powers of Revision",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "273",
+  "new_act": "BNSS",
+  "new": "308",
+  "title": "Evidence to Be Taken in Presence of Accused",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "224",
+  "new_act": "BNSS",
+  "new": "247",
+  "title": "Withdrawal of Remaining Charges on Conviction",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "446",
+  "new_act": "BNSS",
+  "new": "491",
+  "title": "Procedure When Bond is Forfeited",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "",
+  "split": "test"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "260",
+  "new_act": "BNSS",
+  "new": "283",
+  "title": "Power to Try Summarily",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 1,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "302",
+  "new_act": "BNSS",
+  "new": "339",
+  "title": "Permission to Conduct Prosecution",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "218",
+  "new_act": "BNSS",
+  "new": "241",
+  "title": "Separate Charges for Distinct Offences",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "Separate charges for distinct offences.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "55",
+  "new_act": "BNSS",
+  "new": "55",
+  "title": "Procedure When Police Officer Deputes Subordinate",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 5,
+  "heading": "Procedure when police officer deputes subordinate to arrest without warrant.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "269",
+  "new_act": "BNS",
+  "new": "271",
+  "title": "Negligent Act Likely to Spread Infection of Disease",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 5,
+  "heading": "",
+  "split": "test"
+ },
+ {
+  "old_code": "IPC",
+  "old": "114",
+  "new_act": "BNS",
+  "new": "54",
+  "title": "Abettor Present when Offence is Committed",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "Abettor present when offence is committed.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "375",
+  "new_act": "BNS",
+  "new": "63",
+  "title": "Rape (Definition)",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 1,
+  "heading": "Rape.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "155",
+  "new_act": "BNSS",
+  "new": "174",
+  "title": "Information as to Non-Cognizable Cases",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "Information as to noncognizable cases and investigation of such cases.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "292",
+  "new_act": "BNS",
+  "new": "294",
+  "title": "Sale of Obscene Books, etc.",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "Sale, etc., of obscene books, etc.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "50A",
+  "new_act": "BNSS",
+  "new": "48",
+  "title": "Obligation to Inform Family of Arrest",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "Obligation of person making arrest to inform about arrest, etc., to relative or friend.",
+  "split": "test"
+ },
+ {
+  "old_code": "IPC",
+  "old": "295",
+  "new_act": "BNS",
+  "new": "298",
+  "title": "Injuring or Defiling Place of Worship with Intent to Insult Religion",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 7,
+  "heading": "Injuring or defiling place of worship with intent to insult religion of any class.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "372",
+  "new_act": "BNSS",
+  "new": "413",
+  "title": "No Appeal in Certain Cases",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 1,
+  "heading": "No appeal to lie unless otherwise provided.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "364A",
+  "new_act": "BNS",
+  "new": "140",
+  "title": "Kidnapping for Ransom",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "498A",
+  "new_act": "BNS",
+  "new": "85",
+  "title": "Cruelty by husband or relatives of husband",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "Husband or relative of husband of a woman subjecting her to cruelty.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "457",
+  "new_act": "BNSS",
+  "new": "503",
+  "title": "Procedure by Police Upon Seizure of Property",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 5,
+  "heading": "Procedure by police upon seizure of property.",
+  "split": "test"
+ },
+ {
+  "old_code": "IPC",
+  "old": "452",
+  "new_act": "BNS",
+  "new": "333",
+  "title": "House-trespass after Preparation for Hurt, Assault, or Wrongful Restraint",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 8,
+  "heading": "House-trespass after preparation for hurt, assault or wrongful restraint.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "272",
+  "new_act": "BNS",
+  "new": "274",
+  "title": "Adulteration of Food or Drink Intended for Sale",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 5,
+  "heading": "Adulteration of food or drink intended for sale.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "213",
+  "new_act": "BNSS",
+  "new": "236",
+  "title": "When Manner of Committing Offence Must Be Stated",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "370",
+  "new_act": "BNS",
+  "new": "143",
+  "title": "Trafficking of Persons",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "Trafficking of person.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "467",
+  "new_act": "BNS",
+  "new": "338",
+  "title": "Forgery of Valuable Security, Will, etc.",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 5,
+  "heading": "Forgery of record of Court or of public register, etc.",
+  "split": "test"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "309",
+  "new_act": "BNSS",
+  "new": "346",
+  "title": "Power to Postpone or Adjourn Proceedings",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "Power to postpone or adjourn proceedings.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "353",
+  "new_act": "BNSS",
+  "new": "392",
+  "title": "Judgment",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 1,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "279",
+  "new_act": "BNS",
+  "new": "281",
+  "title": "Rash Driving or Riding on a Public Way",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 5,
+  "heading": "Rash driving or riding on a public way.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "354",
+  "new_act": "BNS",
+  "new": "74",
+  "title": "Assault or Criminal Force to Woman with Intent to Outrage Modesty",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 5,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "427",
+  "new_act": "BNSS",
+  "new": "467",
+  "title": "Sentence on Offender Already Sentenced",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "Sentence on offender already sentenced for another offence.",
+  "split": "test"
+ },
+ {
+  "old_code": "IPC",
+  "old": "419",
+  "new_act": "BNS",
+  "new": "319",
+  "title": "Cheating by Personation",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "Cheating by personation.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "378",
+  "new_act": "BNSS",
+  "new": "419",
+  "title": "Appeal Against Acquittal",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "193",
+  "new_act": "BNSS",
+  "new": "213",
+  "title": "Cognizance of Offences by Courts of Session",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "Cognizance of offences by Court of Session.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "162",
+  "new_act": "BNSS",
+  "new": "181",
+  "title": "Statements to Police Not to Be Signed",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "Examination of witnesses by police.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "129",
+  "new_act": "BNSS",
+  "new": "148",
+  "title": "Dispersal of Unlawful Assembly",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "Dispersal of assembly by use of civil force.",
+  "split": "test"
+ },
+ {
+  "old_code": "IPC",
+  "old": "376A",
+  "new_act": "BNS",
+  "new": "66",
+  "title": "Punishment for Causing Death or Persistent Vegetative State during Rape",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 6,
+  "heading": "Punishment for causing death or resulting in persistent vegetative state of victim.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "128",
+  "new_act": "BNSS",
+  "new": "147",
+  "title": "Enforcement of Order of Maintenance",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "Enforcement of order of maintenance.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "305",
+  "new_act": "BNS",
+  "new": "107",
+  "title": "Abetment of Suicide of Child or Insane Person",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "Abetment of suicide of child or person of unsound mind.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "274",
+  "new_act": "BNSS",
+  "new": "309",
+  "title": "Record in Summons Cases and Inquiries",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "Record in summonscases and inquiries.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "34",
+  "new_act": "BNS",
+  "new": "3",
+  "title": "Acts Done by Several Persons in Furtherance of Common Intention",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 1,
+  "heading": "",
+  "split": "test"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "265C",
+  "new_act": "BNSS",
+  "new": "291",
+  "title": "Mutually Satisfactory Disposition",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "407",
+  "new_act": "BNSS",
+  "new": "447",
+  "title": "Power of High Court to Transfer Cases",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 5,
+  "heading": "Power of High Court to transfer cases and appeals.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "468",
+  "new_act": "BNS",
+  "new": "339",
+  "title": "Forgery for purpose of cheating",
+  "evidence": "single-source",
+  "sources": [
+   "lawsikho"
+  ],
+  "text_overlap": 1,
+  "heading": "Forgery of valuable security, will, etc.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "212",
+  "new_act": "BNS",
+  "new": "249",
+  "title": "Harbouring Offender",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "Harbouring offender.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "178",
+  "new_act": "BNSS",
+  "new": "198",
+  "title": "Place of Inquiry or Trial When Act is an Offence by Reason of Relation to Other Offence",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "Place of inquiry or trial.",
+  "split": "test"
+ },
+ {
+  "old_code": "IPC",
+  "old": "304A",
+  "new_act": "BNS",
+  "new": "106",
+  "title": "Causing Death by Negligence",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "Causing death by negligence.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "326",
+  "new_act": "BNS",
+  "new": "119",
+  "title": "Voluntarily causing grievous hurt by dangerous weapons",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "Voluntarily causing hurt or grievous hurt to extort property, or to constrain to an illegal act.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "228",
+  "new_act": "BNSS",
+  "new": "251",
+  "title": "Framing of Charge (Sessions Trial)",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "Framing of charge.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "425",
+  "new_act": "BNS",
+  "new": "324",
+  "title": "Mischief",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 1,
+  "heading": "Mischief.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "302",
+  "new_act": "BNS",
+  "new": "103",
+  "title": "Punishment for Murder",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "Punishment for murder.",
+  "split": "test"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "473",
+  "new_act": "BNSS",
+  "new": "519",
+  "title": "Extension of Period of Limitation in Certain Cases",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 5,
+  "heading": "Extension of period of limitation in certain cases.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "426",
+  "new_act": "BNSS",
+  "new": "466",
+  "title": "Sentence on Escaped Convict When Recaptured",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "256",
+  "new_act": "BNSS",
+  "new": "279",
+  "title": "Non-Appearance or Death of Complainant",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "144",
+  "new_act": "BNSS",
+  "new": "163",
+  "title": "Power to Issue Order in Urgent Cases of Nuisance or Apprehended Danger",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 8,
+  "heading": "Magistrate may prohibit repetition or continuance of public nuisance. Power to issue order in urgent cases of nuisance or apprehended danger.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "265D",
+  "new_act": "BNSS",
+  "new": "292",
+  "title": "Report of Mutually Satisfactory Disposition to Court",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 5,
+  "heading": "Guidelines for mutually satisfactory disposition.",
+  "split": "test"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "437",
+  "new_act": "BNSS",
+  "new": "480",
+  "title": "Bail in Non-Bailable Offences",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "When bail may be taken in case of non-bailable offence.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "221",
+  "new_act": "BNSS",
+  "new": "244",
+  "title": "Where It Is Doubtful What Offence Has Been Committed",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "240",
+  "new_act": "BNSS",
+  "new": "263",
+  "title": "Framing of Charge (Warrant Case)",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 1,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "293",
+  "new_act": "BNSS",
+  "new": "328",
+  "title": "Reports of Certain Government Scientific Experts",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 1,
+  "heading": "Evidence of officers of Mint.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "401",
+  "new_act": "BNSS",
+  "new": "442",
+  "title": "High Court's Power of Revision",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "High Court's powers of revision.",
+  "split": "test"
+ },
+ {
+  "old_code": "IPC",
+  "old": "300",
+  "new_act": "BNS",
+  "new": "101",
+  "title": "Murder (Definition)",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 1,
+  "heading": "Culpable homicide.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "125",
+  "new_act": "BNSS",
+  "new": "144",
+  "title": "Order for Maintenance of Wives, Children and Parents",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 5,
+  "heading": "Order for maintenance of wives, children and parents.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "50",
+  "new_act": "BNSS",
+  "new": "47",
+  "title": "Person Arrested to Be Informed of Grounds",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "Person arrested to be informed of grounds of arrest and of right to bail.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "207",
+  "new_act": "BNSS",
+  "new": "230",
+  "title": "Supply of Copies to Accused",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "Supply to accused of copy of police report and other documents.",
+  "split": "train"
+ },
+ {
+  "old_code": "IEA",
+  "old": "65B",
+  "new_act": "BSA",
+  "new": "63",
+  "title": "Admissibility of electronic records",
+  "evidence": "single-source",
+  "sources": [
+   "lawsikho"
+  ],
+  "text_overlap": 1,
+  "heading": "",
+  "split": "test"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "340",
+  "new_act": "BNSS",
+  "new": "379",
+  "title": "Procedure in Cases Mentioned in Section 195",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "Procedure in cases mentioned in section 215.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "306",
+  "new_act": "BNS",
+  "new": "108",
+  "title": "Abetment of Suicide",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "Abetment of suicide.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "126",
+  "new_act": "BNSS",
+  "new": "145",
+  "title": "Procedure for Maintenance Proceedings",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "Procedure.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "354D",
+  "new_act": "BNS",
+  "new": "78",
+  "title": "Stalking",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 1,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "468",
+  "new_act": "BNSS",
+  "new": "514",
+  "title": "Bar to Taking Cognizance After Lapse of Period of Limitation",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 7,
+  "heading": "Definitions. Bar to taking cognizance after lapse of period of limitation.",
+  "split": "test"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "389",
+  "new_act": "BNSS",
+  "new": "430",
+  "title": "Suspension of Sentence Pending Appeal",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "463",
+  "new_act": "BNS",
+  "new": "336",
+  "title": "Forgery (definition)",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 1,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "439",
+  "new_act": "BNSS",
+  "new": "483",
+  "title": "Special Powers of High Court or Court of Session Regarding Bail",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 7,
+  "heading": "Special powers of High Court or Court of Session regarding bail.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "124",
+  "new_act": "BNS",
+  "new": "150",
+  "title": "Assaulting President, Governor, etc. with intent to compel or restrain exercise of lawful power",
+  "evidence": "single-source",
+  "sources": [
+   "lawsikho"
+  ],
+  "text_overlap": 10,
+  "heading": "Assaulting President, Governor, etc., with intent to compel or restrain exercise of any lawful power.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "197",
+  "new_act": "BNSS",
+  "new": "218",
+  "title": "Prosecution of judges and public servants",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 1,
+  "heading": "",
+  "split": "test"
+ },
+ {
+  "old_code": "IPC",
+  "old": "326A",
+  "new_act": "BNS",
+  "new": "124",
+  "title": "Voluntarily Causing Grievous Hurt by Acid Attack",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "469",
+  "new_act": "BNSS",
+  "new": "515",
+  "title": "Commencement of Period of Limitation",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "249",
+  "new_act": "BNSS",
+  "new": "272",
+  "title": "Absence of Complainant",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 1,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "493",
+  "new_act": "BNS",
+  "new": "81",
+  "title": "Cohabitation Caused by Man Deceitfully Inducing Belief of Lawful Marriage",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 8,
+  "heading": "Cohabitation caused by man deceitfully inducing belief of lawful marriage.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "436A",
+  "new_act": "BNSS",
+  "new": "479",
+  "title": "Maximum Period for Which Undertrial Prisoner Can Be Detained",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "",
+  "split": "test"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "251",
+  "new_act": "BNSS",
+  "new": "274",
+  "title": "Substance of Accusation to Be Stated",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "Substance of accusation to be stated.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "107",
+  "new_act": "BNS",
+  "new": "45",
+  "title": "Abetment of a Thing (Definition)",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "Abetment of a thing.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "211",
+  "new_act": "BNSS",
+  "new": "234",
+  "title": "Contents of Charge",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "Contents of charge.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "300",
+  "new_act": "BNSS",
+  "new": "337",
+  "title": "Person Once Convicted or Acquitted Not to Be Tried Again",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 7,
+  "heading": "Person once convicted or acquitted not to be tried for same offence.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "245",
+  "new_act": "BNSS",
+  "new": "268",
+  "title": "When Accused Shall Be Discharged or Charge Framed",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "When accused shall be discharged.",
+  "split": "test"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "49",
+  "new_act": "BNSS",
+  "new": "46",
+  "title": "No Unnecessary Restraint",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "No unnecessary restraint.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "45",
+  "new_act": "BNSS",
+  "new": "42",
+  "title": "Protection of Members of Armed Forces from Arrest",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "324",
+  "new_act": "BNS",
+  "new": "118",
+  "title": "Voluntarily causing hurt by dangerous weapons",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 5,
+  "heading": "Voluntarily causing hurt or grievous hurt by dangerous weapons or means.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "304",
+  "new_act": "BNS",
+  "new": "105",
+  "title": "Culpable homicide not amounting to murder (punishment)",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 5,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "376D",
+  "new_act": "BNS",
+  "new": "70",
+  "title": "Gang Rape",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "Gang rape.",
+  "split": "test"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "244",
+  "new_act": "BNSS",
+  "new": "267",
+  "title": "Evidence for Prosecution (Complaint Case)",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "Evidence for prosecution.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "403",
+  "new_act": "BNS",
+  "new": "314",
+  "title": "Dishonest Misappropriation of Property",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "42",
+  "new_act": "BNSS",
+  "new": "39",
+  "title": "Arrest on Refusal to Give Name and Address",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "Arrest on refusal to give name and residence.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "471",
+  "new_act": "BNS",
+  "new": "340",
+  "title": "Using as Genuine a Forged Document",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "IEA",
+  "old": "27",
+  "new_act": "BSA",
+  "new": "23",
+  "title": "How much of information received from accused may be proved (discovery statements)",
+  "evidence": "single-source",
+  "sources": [
+   "lawsikho"
+  ],
+  "text_overlap": 6,
+  "heading": "Confession to police officer.",
+  "split": "test"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "428",
+  "new_act": "BNSS",
+  "new": "468",
+  "title": "Period of Detention Undergone to Be Set Off Against Sentence",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 7,
+  "heading": "Period of detention undergone by accused to be set off against sentence of imprisonment.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "192",
+  "new_act": "BNSS",
+  "new": "212",
+  "title": "Making Over of Cases to Magistrate",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "Making over of cases to Magistrates.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "154",
+  "new_act": "BNSS",
+  "new": "173",
+  "title": "Information in Cognizable Cases (FIR)",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "Information in cognizable cases.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "392",
+  "new_act": "BNS",
+  "new": "309",
+  "title": "Punishment for Robbery",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 1,
+  "heading": "Robbery.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "477A",
+  "new_act": "BNS",
+  "new": "344",
+  "title": "Falsification of Accounts",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "Falsification of accounts.",
+  "split": "test"
+ },
+ {
+  "old_code": "IPC",
+  "old": "354A",
+  "new_act": "BNS",
+  "new": "75",
+  "title": "Sexual Harassment",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "Assault or use of criminal force to woman with intent to outrage her modesty. Sexual harassment.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "174",
+  "new_act": "BNSS",
+  "new": "194",
+  "title": "Police to Enquire and Report on Suicide etc.",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 5,
+  "heading": "Police to enquire and report on suicide, etc.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "238",
+  "new_act": "BNSS",
+  "new": "261",
+  "title": "Compliance with Section 207",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "Compliance with section 230.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "258",
+  "new_act": "BNSS",
+  "new": "281",
+  "title": "Power to Stop Proceedings in Certain Cases",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "127",
+  "new_act": "BNSS",
+  "new": "146",
+  "title": "Alteration in Allowance",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "",
+  "split": "test"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "232",
+  "new_act": "BNSS",
+  "new": "255",
+  "title": "Acquittal",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 1,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "391",
+  "new_act": "BNSS",
+  "new": "432",
+  "title": "Appellate Court May Take Further Evidence",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 6,
+  "heading": "Appellate Court may take further evidence or direct it to be taken.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "451",
+  "new_act": "BNSS",
+  "new": "497",
+  "title": "Order for Custody and Disposal of Property",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "Order for custody and disposal of property pending trial in certain cases.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "242",
+  "new_act": "BNSS",
+  "new": "265",
+  "title": "Evidence for Prosecution",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "Evidence for prosecution.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "41",
+  "new_act": "BNSS",
+  "new": "35",
+  "title": "When Police May Arrest Without Warrant",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 5,
+  "heading": "",
+  "split": "test"
+ },
+ {
+  "old_code": "IPC",
+  "old": "363",
+  "new_act": "BNS",
+  "new": "137",
+  "title": "Kidnapping from lawful guardianship (punishment)",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "Kidnapping.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "397",
+  "new_act": "BNS",
+  "new": "311",
+  "title": "Robbery or Dacoity with Attempt to Cause Death or Grievous Hurt",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 7,
+  "heading": "Robbery, or dacoity, with attempt to cause death or grievous hurt.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "438",
+  "new_act": "BNSS",
+  "new": "482",
+  "title": "Direction for grant of bail to person apprehending arrest (anticipatory bail)",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 6,
+  "heading": "Direction for grant of bail to person apprehending arrest.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "496",
+  "new_act": "BNS",
+  "new": "83",
+  "title": "Marriage Ceremony Performed Fraudulently Without Lawful Marriage",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 5,
+  "heading": "Marriage ceremony fraudulently gone through without lawful marriage.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "211",
+  "new_act": "BNS",
+  "new": "248",
+  "title": "False Charge of Offence Made with Intent to Injure",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 6,
+  "heading": "False charge of offence made with intent to injure.",
+  "split": "test"
+ },
+ {
+  "old_code": "IPC",
+  "old": "511",
+  "new_act": "BNS",
+  "new": "62",
+  "title": "Punishment for Attempting to Commit Offences",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "Punishment for attempting to commit offences punishable with imprisonment for life or other imprisonment.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "357",
+  "new_act": "BNSS",
+  "new": "395",
+  "title": "Order to Pay Compensation",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "Order to pay compensation.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "307",
+  "new_act": "BNS",
+  "new": "109",
+  "title": "Attempt to Murder",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "Attempt to murder.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "353",
+  "new_act": "BNS",
+  "new": "132",
+  "title": "Assault or Criminal Force to Deter Public Servant",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 6,
+  "heading": "Assault or criminal force to deter public servant from discharge of his duty.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "482",
+  "new_act": "BNSS",
+  "new": "528",
+  "title": "Saving of Inherent Powers of High Court",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "Duty of High Court to exercise continuous superintendence over Courts.",
+  "split": "test"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "294",
+  "new_act": "BNSS",
+  "new": "329",
+  "title": "No Formal Proof of Certain Documents",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 1,
+  "heading": "Reports of certain Government scientific experts.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "421",
+  "new_act": "BNS",
+  "new": "320",
+  "title": "Dishonest or Fraudulent Removal or Concealment of Property",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 5,
+  "heading": "Dishonest or fraudulent removal or concealment of property to prevent distribution among creditors.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "435",
+  "new_act": "BNS",
+  "new": "326",
+  "title": "Mischief by Fire or Explosive with Intent to Cause Damage",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 5,
+  "heading": "Mischief by killing or maiming animal. Mischief by injury, inundation, fire or explosive substance, etc.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "332",
+  "new_act": "BNS",
+  "new": "121",
+  "title": "Voluntarily Causing Hurt to Public Servant",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "304B",
+  "new_act": "BNS",
+  "new": "80",
+  "title": "Dowry Death",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "Dowry death.",
+  "split": "test"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "406",
+  "new_act": "BNSS",
+  "new": "446",
+  "title": "Power of Supreme Court to Transfer Cases",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 5,
+  "heading": "CHAPTER XXXIII TRANSFER OF CRIMINAL CASES Power of Supreme Court to transfer cases and appeals.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "308",
+  "new_act": "BNS",
+  "new": "110",
+  "title": "Attempt to Commit Culpable Homicide",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "Attempt to commit culpable homicide.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "504",
+  "new_act": "BNS",
+  "new": "352",
+  "title": "Intentional Insult with Intent to Provoke Breach of Peace",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 1,
+  "heading": "Statements conducing to public mischief.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "172",
+  "new_act": "BNSS",
+  "new": "192",
+  "title": "Diary of Proceedings in Investigation",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "157",
+  "new_act": "BNSS",
+  "new": "176",
+  "title": "Procedure for Investigation",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "Procedure for investigation.",
+  "split": "test"
+ },
+ {
+  "old_code": "IPC",
+  "old": "336",
+  "new_act": "BNS",
+  "new": "125",
+  "title": "Act Endangering Life or Personal Safety of Others",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 6,
+  "heading": "Act endangering life or personal safety of others.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "51",
+  "new_act": "BNSS",
+  "new": "49",
+  "title": "Search of Arrested Person",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "Search of arrested person.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "509",
+  "new_act": "BNS",
+  "new": "79",
+  "title": "Word, Gesture or Act Intended to Insult the Modesty of a Woman",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 7,
+  "heading": "Word, gesture or act intended to insult modesty of a woman.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "268",
+  "new_act": "BNS",
+  "new": "270",
+  "title": "Public Nuisance",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "Public nuisance.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "227",
+  "new_act": "BNSS",
+  "new": "250",
+  "title": "Discharge (Sessions Trial)",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 1,
+  "heading": "Discharge.",
+  "split": "test"
+ },
+ {
+  "old_code": "IPC",
+  "old": "364",
+  "new_act": "BNS",
+  "new": "140",
+  "title": "Kidnapping or Abducting in order to Murder",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "IEA",
+  "old": "45",
+  "new_act": "BSA",
+  "new": "39",
+  "title": "Opinions of experts",
+  "evidence": "single-source",
+  "sources": [
+   "lawsikho"
+  ],
+  "text_overlap": 2,
+  "heading": "Opinions of experts.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "354C",
+  "new_act": "BNS",
+  "new": "77",
+  "title": "Voyeurism",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 1,
+  "heading": "Voyeurism.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "499",
+  "new_act": "BNS",
+  "new": "356",
+  "title": "Defamation",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 1,
+  "heading": "Defamation.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "311",
+  "new_act": "BNSS",
+  "new": "348",
+  "title": "Power to Summon Material Witness",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "Local inspection.",
+  "split": "test"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "452",
+  "new_act": "BNSS",
+  "new": "498",
+  "title": "Order for Disposal of Property at Conclusion of Trial",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "399",
+  "new_act": "BNSS",
+  "new": "440",
+  "title": "Sessions Judge's Power of Revision",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "Sessions Judge's powers of revision.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "54",
+  "new_act": "BNSS",
+  "new": "53",
+  "title": "Examination of Arrested Person by Medical Practitioner",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 5,
+  "heading": "Examination of arrested person by medical officer.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "108",
+  "new_act": "BNS",
+  "new": "46",
+  "title": "Abettor (definition)",
+  "evidence": "single-source",
+  "sources": [
+   "lawsikho"
+  ],
+  "text_overlap": 1,
+  "heading": "Abettor.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "395",
+  "new_act": "BNS",
+  "new": "310",
+  "title": "Punishment for Dacoity",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 1,
+  "heading": "",
+  "split": "test"
+ },
+ {
+  "old_code": "IPC",
+  "old": "380",
+  "new_act": "BNS",
+  "new": "305",
+  "title": "Theft in Dwelling House",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "173",
+  "new_act": "BNSS",
+  "new": "193",
+  "title": "Report of police officer on completion of investigation (chargesheet)",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "265A",
+  "new_act": "BNSS",
+  "new": "289",
+  "title": "Application for Plea Bargaining",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 1,
+  "heading": "Application of Chapter.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "352",
+  "new_act": "BNS",
+  "new": "131",
+  "title": "Assault or Criminal Force otherwise than on Grave Provocation",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 6,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "265B",
+  "new_act": "BNSS",
+  "new": "290",
+  "title": "Guidelines for Plea Bargaining",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "Application for plea bargaining.",
+  "split": "test"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "345",
+  "new_act": "BNSS",
+  "new": "384",
+  "title": "Procedure in Certain Cases of Contempt",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "Procedure in certain cases of contempt.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "413",
+  "new_act": "BNSS",
+  "new": "453",
+  "title": "Who May Issue Warrant",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "Execution of order passed under section 409.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "46",
+  "new_act": "BNSS",
+  "new": "43",
+  "title": "How Arrest is Made",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 1,
+  "heading": "Protection of members of Armed Forces from arrest.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "379",
+  "new_act": "BNS",
+  "new": "303",
+  "title": "Punishment for Theft",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 1,
+  "heading": "Theft.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "470",
+  "new_act": "BNSS",
+  "new": "516",
+  "title": "Exclusion of Time in Certain Cases",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "Exclusion of time in certain cases.",
+  "split": "test"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "357A",
+  "new_act": "BNSS",
+  "new": "396",
+  "title": "Victim Compensation Scheme",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "Victim compensation scheme.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "441",
+  "new_act": "BNSS",
+  "new": "485",
+  "title": "Bond of Accused and Sureties",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "Amount of bond and reduction thereof.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "120A",
+  "new_act": "BNS",
+  "new": "60",
+  "title": "Criminal Conspiracy (Definition)",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "54A",
+  "new_act": "BNSS",
+  "new": "54",
+  "title": "Identification of Person Arrested",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "Identification of person arrested.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "248",
+  "new_act": "BNSS",
+  "new": "271",
+  "title": "Conviction or Acquittal (Warrant Case)",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "Acquittal or conviction.",
+  "split": "test"
+ },
+ {
+  "old_code": "IPC",
+  "old": "294",
+  "new_act": "BNS",
+  "new": "296",
+  "title": "Obscene Acts and Songs",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 1,
+  "heading": "Sale, etc., of obscene objects to child.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "382",
+  "new_act": "BNS",
+  "new": "307",
+  "title": "Theft after Preparation Made for Causing Death or Hurt",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 7,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "406",
+  "new_act": "BNS",
+  "new": "316",
+  "title": "Criminal breach of trust (punishment)",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "Criminal breach of trust.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "167",
+  "new_act": "BNSS",
+  "new": "187",
+  "title": "Procedure when investigation cannot be completed in 24 hours (remand)",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 5,
+  "heading": "Procedure when investigation cannot be completed in twenty-four hours.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "141",
+  "new_act": "BNS",
+  "new": "189",
+  "title": "Unlawful Assembly",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "Unlawful assembly.",
+  "split": "test"
+ },
+ {
+  "old_code": "IPC",
+  "old": "494",
+  "new_act": "BNS",
+  "new": "82",
+  "title": "Marrying Again During Lifetime of Husband or Wife (Bigamy)",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "421",
+  "new_act": "BNSS",
+  "new": "461",
+  "title": "Warrant for Levy of Fine",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "Warrant for levy of fine.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "241",
+  "new_act": "BNSS",
+  "new": "264",
+  "title": "Conviction on Plea of Guilty",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "Framing of charge.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "299",
+  "new_act": "BNS",
+  "new": "100",
+  "title": "Culpable homicide (definition)",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "354B",
+  "new_act": "BNS",
+  "new": "76",
+  "title": "Assault or Use of Criminal Force to Woman with Intent to Disrobe",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 7,
+  "heading": "Assault or use of criminal force to woman with intent to disrobe.",
+  "split": "test"
+ },
+ {
+  "old_code": "IPC",
+  "old": "193",
+  "new_act": "BNS",
+  "new": "229",
+  "title": "Punishment for False Evidence",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "Punishment for false evidence.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "190",
+  "new_act": "BNSS",
+  "new": "210",
+  "title": "Cognizance of Offences by Magistrate",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "239",
+  "new_act": "BNSS",
+  "new": "262",
+  "title": "Discharge (Warrant Case on Police Report)",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "323",
+  "new_act": "BNS",
+  "new": "115",
+  "title": "Voluntarily Causing Hurt",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "149",
+  "new_act": "BNS",
+  "new": "190",
+  "title": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 10,
+  "heading": "Every member of unlawful assembly guilty of offence committed in prosecution of common object.",
+  "split": "test"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "354",
+  "new_act": "BNSS",
+  "new": "393",
+  "title": "Language and Contents of Judgment",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "Certain Judges and Magistrates not to try certain offences when committed before themselves. Judgment.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "167",
+  "new_act": "BNS",
+  "new": "201",
+  "title": "Public Servant Framing an Incorrect Document",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "200",
+  "new_act": "BNSS",
+  "new": "223",
+  "title": "Examination of Complainant",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "Examination of complainant.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "121",
+  "new_act": "BNS",
+  "new": "147",
+  "title": "Waging War Against the Government of India",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 5,
+  "heading": "Conspiracy to commit offences punishable by section 147.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "212",
+  "new_act": "BNSS",
+  "new": "235",
+  "title": "Particulars as to Time, Place and Person",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "Particulars as to time, place and person.",
+  "split": "test"
+ },
+ {
+  "old_code": "IPC",
+  "old": "447",
+  "new_act": "BNS",
+  "new": "329",
+  "title": "Punishment for Criminal Trespass",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "Criminal trespass and house-trespass.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "313",
+  "new_act": "BNSS",
+  "new": "351",
+  "title": "Power to Examine the Accused",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "Power to examine accused.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "209",
+  "new_act": "BNSS",
+  "new": "232",
+  "title": "Commitment of Case to Court of Session",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "Commitment of case to Court of Session when offence is triable exclusively by it.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "147",
+  "new_act": "BNS",
+  "new": "191",
+  "title": "Punishment for Rioting",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 1,
+  "heading": "Rioting.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "160",
+  "new_act": "BNSS",
+  "new": "179",
+  "title": "Police Officer's Power to Require Attendance",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 5,
+  "heading": "Police officer's power to require attendance of witnesses.",
+  "split": "test"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "252",
+  "new_act": "BNSS",
+  "new": "275",
+  "title": "Conviction on Plea of Guilty (Summons Case)",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "Conviction on plea of guilty in absence of accused in petty cases.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "500",
+  "new_act": "BNS",
+  "new": "356",
+  "title": "Defamation (punishment)",
+  "evidence": "single-source",
+  "sources": [
+   "lawsikho"
+  ],
+  "text_overlap": 1,
+  "heading": "Defamation.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "506",
+  "new_act": "BNS",
+  "new": "351",
+  "title": "Criminal intimidation (punishment)",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "Criminal intimidation.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "384",
+  "new_act": "BNS",
+  "new": "308",
+  "title": "Punishment for Extortion",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 1,
+  "heading": "Extortion.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "170",
+  "new_act": "BNS",
+  "new": "204",
+  "title": "Personating a Public Servant",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "Personating a public servant.",
+  "split": "test"
+ },
+ {
+  "old_code": "IPC",
+  "old": "411",
+  "new_act": "BNS",
+  "new": "317",
+  "title": "Dishonestly Receiving Stolen Property",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "Stolen property.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "489A",
+  "new_act": "BNS",
+  "new": "178",
+  "title": "Counterfeiting Currency Notes or Bank Notes",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "295A",
+  "new_act": "BNS",
+  "new": "299",
+  "title": "Deliberate and Malicious Acts Intended to Outrage Religious Feelings",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 7,
+  "heading": "Deliberate and malicious acts, intended to outrage religious feelings of any class by insulting its religion or religious beliefs.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "296",
+  "new_act": "BNS",
+  "new": "300",
+  "title": "Disturbing Religious Assembly",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "Disturbing religious assembly.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "254",
+  "new_act": "BNSS",
+  "new": "277",
+  "title": "Acquittal or Conviction (Summons Case)",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 1,
+  "heading": "Procedure when not convicted.",
+  "split": "test"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "202",
+  "new_act": "BNSS",
+  "new": "225",
+  "title": "Postponement of Issue of Process",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "153A",
+  "new_act": "BNS",
+  "new": "196",
+  "title": "Promoting Enmity Between Different Groups",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "165",
+  "new_act": "BNSS",
+  "new": "185",
+  "title": "Search by Police Officer",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "440",
+  "new_act": "BNSS",
+  "new": "484",
+  "title": "Amount of Bond and Reduction",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "143",
+  "new_act": "BNS",
+  "new": "189",
+  "title": "Unlawful assembly (punishment for being member)",
+  "evidence": "single-source",
+  "sources": [
+   "lawsikho"
+  ],
+  "text_overlap": 4,
+  "heading": "Unlawful assembly.",
+  "split": "test"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "176",
+  "new_act": "BNSS",
+  "new": "196",
+  "title": "Inquiry by Magistrate into Cause of Death",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 5,
+  "heading": "Inquiry by Magistrate into cause of death.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "262",
+  "new_act": "BNSS",
+  "new": "285",
+  "title": "Procedure for Summary Trials",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "Procedure for summary trials.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "169",
+  "new_act": "BNSS",
+  "new": "189",
+  "title": "Release of Accused When Evidence is Deficient",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "44",
+  "new_act": "BNSS",
+  "new": "41",
+  "title": "Arrest by Magistrate",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "Arrest by Magistrate.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "447",
+  "new_act": "BNSS",
+  "new": "492",
+  "title": "Procedure in Case of Insolvency of Surety",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 1,
+  "heading": "Cancellation of bond and bail bond.",
+  "split": "test"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "175",
+  "new_act": "BNSS",
+  "new": "195",
+  "title": "Power to Summon Persons to Produce Document",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "156",
+  "new_act": "BNSS",
+  "new": "175",
+  "title": "Police Officer's Power to Investigate",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "250",
+  "new_act": "BNSS",
+  "new": "273",
+  "title": "Compensation for Accusation Without Reasonable Cause",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "Absence of complainant.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "57",
+  "new_act": "BNSS",
+  "new": "58",
+  "title": "Person Arrested Not to Be Detained More Than 24 Hours",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 7,
+  "heading": "Person arrested not to be detained more than twenty-four hours.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "164",
+  "new_act": "BNSS",
+  "new": "183",
+  "title": "Recording of Confessions and Statements",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "Recording of confessions and statements.",
+  "split": "test"
+ },
+ {
+  "old_code": "IPC",
+  "old": "201",
+  "new_act": "BNS",
+  "new": "238",
+  "title": "Causing Disappearance of Evidence of Offence",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "41A",
+  "new_act": "BNSS",
+  "new": "35",
+  "title": "Notice of Appearance Before Police Officer",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "177",
+  "new_act": "BNSS",
+  "new": "197",
+  "title": "Ordinary Place of Inquiry and Trial",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "Ordinary place of inquiry and trial.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "120B",
+  "new_act": "BNS",
+  "new": "61",
+  "title": "Punishment for Criminal Conspiracy",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "Criminal conspiracy.",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "420",
+  "new_act": "BNS",
+  "new": "318",
+  "title": "Cheating and Dishonestly Inducing Delivery of Property",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "",
+  "split": "test"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "170",
+  "new_act": "BNSS",
+  "new": "190",
+  "title": "Cases to Be Sent to Magistrate",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 1,
+  "heading": "Release of accused when evidence deficient.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "161",
+  "new_act": "BNSS",
+  "new": "180",
+  "title": "Examination of Witnesses by Police",
+  "evidence": "consensus",
+  "sources": [
+   "lawsikho",
+   "vakeel360"
+  ],
+  "text_overlap": 2,
+  "heading": "",
+  "split": "train"
+ },
+ {
+  "old_code": "IPC",
+  "old": "303",
+  "new_act": "BNS",
+  "new": "104",
+  "title": "Murder by Life Convict",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "Punishment for murder by life-convict.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "433",
+  "new_act": "BNSS",
+  "new": "474",
+  "title": "Power to Commute Sentence",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 3,
+  "heading": "Power to commute sentence.",
+  "split": "train"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "216",
+  "new_act": "BNSS",
+  "new": "239",
+  "title": "Court May Alter Charge",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 4,
+  "heading": "Court may alter charge.",
+  "split": "test"
+ },
+ {
+  "old_code": "CrPC",
+  "old": "377",
+  "new_act": "BNSS",
+  "new": "418",
+  "title": "Appeal by State Government Against Sentence",
+  "evidence": "single-source",
+  "sources": [
+   "vakeel360"
+  ],
+  "text_overlap": 5,
+  "heading": "Appeal by State Government against sentence.",
+  "split": "train"
+ }
+]
