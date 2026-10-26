@@ -1,5 +1,7 @@
 # Nyaya: domain-aligned models for India's new criminal laws
 
+**Results and lessons so far: [FINDINGS.md](FINDINGS.md).**
+
 On 1 July 2024 India replaced its three colonial-era criminal codes:
 
 | repealed | replaced by |
@@ -51,7 +53,12 @@ Every item has a section number as its gold answer, so scoring needs no LLM judg
 | temporal_pre / post / straddle | "The offence was committed on 7 Feb 2024 but the FIR was registered on 22 Nov 2024. Which penal provision should the charge cite?" The correct answer is the IPC number, and the BNS number is the trap. For procedure, the direction flips. | 228 each |
 
 - **Sources:** section text and headings are parsed from the official Gazette PDFs (`data/raw`). All 1,059 sections are recovered.
-- **Mapping checks:** the old→new mappings come from two independent public tables (vakeel360, LawSikho). If the tables disagree on a row, it's dropped. Every surviving row is checked against the Gazette text: the new section must exist and share vocabulary with the offence title.
+- **Mapping checks:** each old→new mapping is checked against up to four independent sources:
+  - two public tables (vakeel360, LawSikho)
+  - the Allahabad High Court's official BNS↔IPC comparison
+  - a statute-to-statute text concordance between the India Code IPC/CrPC/IEA and the Gazette BNS/BNSS/BSA
+
+  If the official table and the text concordance both contradict the public tables, the row is corrected. This happened once: IPC 326 → BNS 118, not 119.
 - **Train/test split:** 80% of mappings go into the training document (`TRANSITION_GUIDE.txt`). The other 20% are held out, so the report separates *taught* knowledge from *generalised* knowledge.
 
 ## Run it

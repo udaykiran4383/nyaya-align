@@ -64,3 +64,26 @@ class Concordance:
     def map(self, src_code, num, tag="concord"):
         tgt, ranked = self.candidates(src_code, num, tag=tag)
         return {"target": tgt, "best": ranked[0][0] if ranked else None, "ranked": ranked}
+
+
+class TextConcordance:
+    """API-free variant: BM25 alone, both directions. Used to adjudicate the mapping tables."""
+
+    def __init__(self):
+        self.new = _load(ROOT / "data" / "corpus" / "sections.jsonl", "act")
+        self.old = _load(ROOT / "data" / "corpus" / "old_sections.jsonl", "code")
+        self._bm = {}
+
+    def _index(self, code):
+        if code not in self._bm:
+            table = self.new if code in OLD_OF else self.old
+            keys = [k for k in table if k[0] == code]
+            self._bm[code] = (keys, BM25([f"{table[k]['heading']} {table[k]['heading']} {table[k]['text'][:1500]}" for k in keys]))
+        return self._bm[code]
+
+    def top(self, code, num, k=5):
+        src = (self.new if code in OLD_OF else self.old).get((code, num))
+        if not src:
+            return []
+        keys, bm = self._index(NEW_OF.get(code) or OLD_OF[code])
+        return [keys[i][1] for i in bm.rank(f"{src['heading']} {src['heading']} {src['text'][:900]}")[:k]]

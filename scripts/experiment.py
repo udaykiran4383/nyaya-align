@@ -7,6 +7,7 @@ Conditions
   aligned_rag      aligned model generates, aligned embed+rerank (full single-model pipeline)
   router           ask all three aligned models with RAG, keep the most confident (confidence as router)
   consistency      aligned_closed sampled 5x at T=0.7            (does confidence track self-agreement?)
+  hybrid           rules + statute concordance propose 5, aligned model reranks and picks (nyaya/hybrid.py)
 
   python3 scripts/experiment.py --conditions base_closed,aligned_closed --split test
   python3 scripts/experiment.py --conditions all --split all --workers 8
@@ -23,11 +24,13 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from nyaya.client import Nugen, NugenError  # noqa: E402
 from nyaya.score import score  # noqa: E402
+from nyaya.hybrid import Hybrid  # noqa: E402
 from nyaya.system import Nyaya, load_models  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "runs" / "results"
-ALL = ["base_closed", "aligned_closed", "base_rag", "aligned_rag", "router", "consistency"]
+ALL = ["base_closed", "aligned_closed", "base_rag", "aligned_rag", "router", "consistency", "hybrid"]
+_HYBRID = {}
 
 
 def run_one(sys_, base_sys, cond, it):
@@ -43,6 +46,10 @@ def run_one(sys_, base_sys, cond, it):
     elif cond == "router":
         out = sys_.ask(q, route="confidence", tag=tag)
         out["routed_correctly"] = out["act"] == act
+    elif cond == "hybrid":
+        hy = _HYBRID.setdefault(id(sys_), Hybrid(sys_))
+        out = hy.ask(q, act, tag=tag)
+        out["sources"] = [f"{act} {c}" for c in out.get("candidates", [])]
     elif cond == "consistency":
         samples = [sys_.generate(act, q, tag=tag, temperature=0.7) for _ in range(5)]
         preds = [score(it, s["answer"])["pred"] for s in samples]

@@ -78,6 +78,40 @@ def words(s):
     return {w for w in re.findall(r"[a-z]+", s.lower()) if w not in STOP and len(w) > 2}
 
 
+def adjudicate(mappings, sections):
+    """Two more independent votes on every row, applied in place so item ids and splits never move:
+      official  Allahabad High Court BNS<->IPC comparison (data/raw/official), where it covers the row
+      text      statute-to-statute BM25 concordance over the Gazette BNS and the India Code IPC/CrPC/IEA
+    A row is corrected only when the official table and the text concordance agree with each other and
+    both disagree with the public tables (e.g. IPC 326 -> BNS 118, not 119)."""
+    import sys
+    sys.path.insert(0, str(ROOT))
+    from nyaya.concordance import TextConcordance
+    tc = TextConcordance()
+    official = defaultdict(set)
+    path = ROOT / "data" / "raw" / "official" / "allahabad_bns_ipc_pairs.json"
+    for r in json.loads(path.read_text()) if path.exists() else []:
+        if r["ipc"] and "(" not in r["ipc"]:  # subsection rows (376(3) -> 65) say nothing about base 376
+            official[base(r["ipc"])].add(r["bns"])
+    for m in mappings:
+        fwd, back = tc.top(m["old_code"], m["old"]), tc.top(m["new_act"], m["new"])
+        m["text_top"] = fwd[0] if fwd else None
+        votes = list(m["sources"])
+        if m["text_top"] == m["new"] or (back and back[0] == m["old"]):
+            votes.append("statute-text")
+        off = official.get(m["old"]) if m["old_code"] == "IPC" else None
+        if off:
+            if m["new"] in off:
+                votes.append("allahabad-hc")
+            elif len(off) == 1 and m["text_top"] in off and (m["new_act"], m["text_top"]) in sections:
+                m["corrected_from"] = m["new"]
+                m["new"] = m["text_top"]
+                m["heading"] = sections[(m["new_act"], m["new"])]["heading"]
+                votes = ["allahabad-hc", "statute-text"]
+        m["verified_by"] = votes
+        m["evidence"] = "corrected" if "corrected_from" in m else ("strong" if len(votes) >= 2 else "weak")
+
+
 def main():
     sections = {(r["act"], r["section"]): r for r in map(json.loads, open(CORPUS / "sections.jsonl"))}
     by_key = defaultdict(lambda: {"new": defaultdict(set), "titles": []})
@@ -110,6 +144,7 @@ def main():
     random.shuffle(mappings)
     for i, m in enumerate(mappings):
         m["split"] = "test" if i % 5 == 0 else "train"
+    adjudicate(mappings, sections)
 
     items = []
 
@@ -203,7 +238,7 @@ def main():
     for it in items:
         count[(it["kind"], it["split"])] += 1
     print(f"mappings verified: {len(mappings)} "
-          f"({sum(m['evidence'] == 'consensus' for m in mappings)} consensus) "
+          f"(evidence: { {e: sum(m['evidence'] == e for m in mappings) for e in ('strong', 'weak', 'corrected')} }) "
           f"by code: { {c: sum(m['old_code'] == c for m in mappings) for c in PAIR} }")
     print("items:", dict(sorted(count.items())), "total", len(items))
     print("nugen benchmark samples:", len(samples), "| transition guide words:", len(" ".join(lines).split()))
