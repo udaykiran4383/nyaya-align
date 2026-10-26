@@ -1,4 +1,12 @@
 .env
-runs/
 __pycache__/
+# raw third-party sources: fetched by scripts/fetch_sources.sh, not redistributed
+data/raw/**/*.pdf
 data/raw/*.pdf
+data/raw/mappings/
+data/raw/official/vol2.txt
+data/raw/old/
+# run artefacts: keep results and the report, drop caches/logs
+runs/*
+!runs/results/
+!runs/REPORT.md

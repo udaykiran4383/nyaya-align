@@ -64,6 +64,7 @@ Every item has a section number as its gold answer, so scoring needs no LLM judg
 ## Run it
 
 ```bash
+scripts/fetch_sources.sh          # raw sources (statute PDFs, public tables); not redistributed here
 cp .env.example .env             # put NUGEN_API_KEY=... in it
 python3 scripts/prepare_corpus.py   # already done; output is in data/corpus
 python3 scripts/build_benchmark.py  # already done; output is in data/bench
