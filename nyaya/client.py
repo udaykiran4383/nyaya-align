@@ -47,7 +47,7 @@ class Nugen:
         url = BASE + path
         if params:
             url += "?" + "&".join(f"{k}={v}" for k, v in params.items() if v is not None)
-        headers = {"Authorization": f"Bearer {self.key}", "Accept": "application/json"}
+        headers = {"Authorization": f"Bearer {self.key}", "Accept": "application/json", "User-Agent": "nyaya-align/0.1 (+https://github.com/udaykiran4383)"}
         data = None
         if form is not None:
             data, ctype = _multipart(form)

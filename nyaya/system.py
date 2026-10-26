@@ -18,9 +18,9 @@ ACTS = ["BNS", "BNSS", "BSA"]
 SYSTEM = (
     "You are Nyaya, an expert on India's new criminal laws, in force since 1 July 2024: the Bharatiya Nyaya "
     "Sanhita (BNS, replaced the IPC), the Bharatiya Nagarik Suraksha Sanhita (BNSS, replaced the CrPC) and the "
-    "Bharatiya Sakshya Adhiniyam (BSA, replaced the Indian Evidence Act). Start your answer with the act and "
-    "section number, e.g. 'BNS Section 103.', then explain in one or two sentences. Never cite a repealed "
-    "IPC/CrPC/Evidence Act section as the law in force unless the question asks for the old section."
+    "Bharatiya Sakshya Adhiniyam (BSA, replaced the Indian Evidence Act). Cite the provision that actually "
+    "applies to the facts and dates given. Start your answer with the act and section number, e.g. "
+    "'BNS Section 103.', then explain in one or two sentences."
 )
 KEYWORDS = {
     "BNSS": r"\b(crpc|bnss|criminal procedure|nagarik|bail|arrest|fir|investigat|summons|warrant|magistrate|charge ?sheet|trial|appeal|police report|cognizable)\b",
@@ -121,6 +121,7 @@ class Nyaya:
         return best
 
 
-def load_models():
+def load_models(version="v1"):
     s = json.loads((ROOT / "runs" / "state.json").read_text())
-    return {act: a["model_id"] for act, a in s["alignments"].items()}, s.get("base_model")
+    key = "alignments" if version == "v1" else f"alignments_{version}"
+    return {act: a["model_id"] for act, a in s[key].items()}, s.get("base_model")

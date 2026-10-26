@@ -1548,5 +1548,680 @@
   "sample_num": 310,
   "instruction": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 is titled \"Repeal and savings\"? Answer with the section number.",
   "response": "Section 531 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 311,
+  "instruction": "The offence (public servant disobeying law with intent to cause injury) was committed on 19 April 2023 and the FIR was registered on 16 February 2024. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 166 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 312,
+  "instruction": "The offence (public servant disobeying law with intent to cause injury) was committed on 20 October 2025 and the FIR was registered the next week. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 198 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 313,
+  "instruction": "The offence (public servant disobeying law with intent to cause injury) was committed on 7 February 2024 but the FIR was only registered on 22 November 2024. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 166 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 314,
+  "instruction": "An FIR was registered on 16 January 2024 and the investigation was still pending in August 2024. The issue is: issue of process. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 204 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 315,
+  "instruction": "An FIR was registered on 15 May 2025. The issue is: issue of process. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 227 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 316,
+  "instruction": "The offence was committed on 4 May 2024 but the FIR was only registered on 12 October 2024. The issue is: issue of process. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 227 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 317,
+  "instruction": "An FIR was registered on 2 January 2024 and the investigation was still pending in August 2024. The issue is: power to suspend or remit sentences. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 432 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 318,
+  "instruction": "An FIR was registered on 16 January 2025. The issue is: power to suspend or remit sentences. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 473 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 319,
+  "instruction": "The offence was committed on 7 April 2024 but the FIR was only registered on 16 September 2024. The issue is: power to suspend or remit sentences. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 473 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 320,
+  "instruction": "An FIR was registered on 4 January 2024 and the investigation was still pending in August 2024. The issue is: procedure when bond is forfeited. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 446 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 321,
+  "instruction": "An FIR was registered on 8 February 2025. The issue is: procedure when bond is forfeited. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 491 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 322,
+  "instruction": "The offence was committed on 22 May 2024 but the FIR was only registered on 2 September 2024. The issue is: procedure when bond is forfeited. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 491 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 323,
+  "instruction": "The offence (negligent act likely to spread infection of disease) was committed on 4 May 2023 and the FIR was registered on 3 February 2024. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 269 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 324,
+  "instruction": "The offence (negligent act likely to spread infection of disease) was committed on 5 February 2025 and the FIR was registered the next week. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 271 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 325,
+  "instruction": "The offence (negligent act likely to spread infection of disease) was committed on 18 January 2024 but the FIR was only registered on 9 October 2024. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 269 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 326,
+  "instruction": "An FIR was registered on 16 February 2024 and the investigation was still pending in August 2024. The issue is: obligation to inform family of arrest. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 50A of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 327,
+  "instruction": "An FIR was registered on 23 June 2025. The issue is: obligation to inform family of arrest. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 48 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 328,
+  "instruction": "The offence was committed on 20 May 2024 but the FIR was only registered on 20 September 2024. The issue is: obligation to inform family of arrest. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 48 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 329,
+  "instruction": "An FIR was registered on 21 January 2024 and the investigation was still pending in August 2024. The issue is: procedure by police upon seizure of property. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 457 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 330,
+  "instruction": "An FIR was registered on 4 February 2025. The issue is: procedure by police upon seizure of property. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 503 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 331,
+  "instruction": "The offence was committed on 22 January 2024 but the FIR was only registered on 10 August 2024. The issue is: procedure by police upon seizure of property. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 503 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 332,
+  "instruction": "The offence (forgery of valuable security, will, etc.) was committed on 8 March 2023 and the FIR was registered on 15 March 2024. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 467 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 333,
+  "instruction": "The offence (forgery of valuable security, will, etc.) was committed on 8 April 2025 and the FIR was registered the next week. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 338 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 334,
+  "instruction": "The offence (forgery of valuable security, will, etc.) was committed on 9 April 2024 but the FIR was only registered on 8 October 2024. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 467 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 335,
+  "instruction": "An FIR was registered on 14 February 2024 and the investigation was still pending in August 2024. The issue is: sentence on offender already sentenced. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 427 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 336,
+  "instruction": "An FIR was registered on 8 September 2025. The issue is: sentence on offender already sentenced. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 467 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 337,
+  "instruction": "The offence was committed on 26 January 2024 but the FIR was only registered on 9 October 2024. The issue is: sentence on offender already sentenced. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 467 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 338,
+  "instruction": "An FIR was registered on 16 April 2024 and the investigation was still pending in August 2024. The issue is: dispersal of unlawful assembly. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 129 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 339,
+  "instruction": "An FIR was registered on 22 April 2025. The issue is: dispersal of unlawful assembly. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 148 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 340,
+  "instruction": "The offence was committed on 14 January 2024 but the FIR was only registered on 16 October 2024. The issue is: dispersal of unlawful assembly. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 148 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 341,
+  "instruction": "The offence (acts done by several persons in furtherance of common intention) was committed on 18 June 2023 and the FIR was registered on 24 March 2024. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 34 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 342,
+  "instruction": "The offence (acts done by several persons in furtherance of common intention) was committed on 17 September 2025 and the FIR was registered the next week. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 3 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 343,
+  "instruction": "The offence (acts done by several persons in furtherance of common intention) was committed on 24 May 2024 but the FIR was only registered on 26 August 2024. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 34 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 344,
+  "instruction": "An FIR was registered on 24 January 2024 and the investigation was still pending in August 2024. The issue is: place of inquiry or trial when act is an offence by reason of relation to other offence. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 178 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 345,
+  "instruction": "An FIR was registered on 4 March 2025. The issue is: place of inquiry or trial when act is an offence by reason of relation to other offence. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 198 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 346,
+  "instruction": "The offence was committed on 16 May 2024 but the FIR was only registered on 27 November 2024. The issue is: place of inquiry or trial when act is an offence by reason of relation to other offence. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 198 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 347,
+  "instruction": "The offence (punishment for murder) was committed on 24 February 2023 and the FIR was registered on 15 March 2024. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 302 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 348,
+  "instruction": "The offence (punishment for murder) was committed on 14 January 2025 and the FIR was registered the next week. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 103 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 349,
+  "instruction": "The offence (punishment for murder) was committed on 18 April 2024 but the FIR was only registered on 19 September 2024. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 302 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 350,
+  "instruction": "An FIR was registered on 22 April 2024 and the investigation was still pending in August 2024. The issue is: report of mutually satisfactory disposition to court. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 265D of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 351,
+  "instruction": "An FIR was registered on 5 January 2025. The issue is: report of mutually satisfactory disposition to court. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 292 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 352,
+  "instruction": "The offence was committed on 20 February 2024 but the FIR was only registered on 13 October 2024. The issue is: report of mutually satisfactory disposition to court. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 292 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 353,
+  "instruction": "An FIR was registered on 16 April 2024 and the investigation was still pending in August 2024. The issue is: high court's power of revision. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 401 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 354,
+  "instruction": "An FIR was registered on 18 August 2025. The issue is: high court's power of revision. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 442 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 355,
+  "instruction": "The offence was committed on 15 March 2024 but the FIR was only registered on 21 September 2024. The issue is: high court's power of revision. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 442 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 356,
+  "instruction": "An FIR was registered on 20 April 2024 and the investigation was still pending in August 2024. The issue is: bar to taking cognizance after lapse of period of limitation. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 468 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 357,
+  "instruction": "An FIR was registered on 5 January 2025. The issue is: bar to taking cognizance after lapse of period of limitation. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 514 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 358,
+  "instruction": "The offence was committed on 5 May 2024 but the FIR was only registered on 10 September 2024. The issue is: bar to taking cognizance after lapse of period of limitation. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 514 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 359,
+  "instruction": "An FIR was registered on 15 April 2024 and the investigation was still pending in August 2024. The issue is: prosecution of judges and public servants. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 197 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 360,
+  "instruction": "An FIR was registered on 18 May 2025. The issue is: prosecution of judges and public servants. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 218 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 361,
+  "instruction": "The offence was committed on 21 April 2024 but the FIR was only registered on 13 October 2024. The issue is: prosecution of judges and public servants. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 218 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 362,
+  "instruction": "An FIR was registered on 6 April 2024 and the investigation was still pending in August 2024. The issue is: maximum period for which undertrial prisoner can be detained. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 436A of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 363,
+  "instruction": "An FIR was registered on 21 April 2025. The issue is: maximum period for which undertrial prisoner can be detained. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 479 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 364,
+  "instruction": "The offence was committed on 3 January 2024 but the FIR was only registered on 16 November 2024. The issue is: maximum period for which undertrial prisoner can be detained. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 479 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 365,
+  "instruction": "An FIR was registered on 26 March 2024 and the investigation was still pending in August 2024. The issue is: when accused shall be discharged or charge framed. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 245 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 366,
+  "instruction": "An FIR was registered on 8 April 2025. The issue is: when accused shall be discharged or charge framed. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 268 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 367,
+  "instruction": "The offence was committed on 18 February 2024 but the FIR was only registered on 23 September 2024. The issue is: when accused shall be discharged or charge framed. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 268 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 368,
+  "instruction": "The offence (gang rape) was committed on 25 April 2023 and the FIR was registered on 14 February 2024. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 376D of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 369,
+  "instruction": "The offence (gang rape) was committed on 13 March 2025 and the FIR was registered the next week. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 70 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 370,
+  "instruction": "The offence (gang rape) was committed on 22 February 2024 but the FIR was only registered on 11 October 2024. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 376D of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 371,
+  "instruction": "The offence (falsification of accounts) was committed on 11 April 2023 and the FIR was registered on 9 January 2024. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 477A of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 372,
+  "instruction": "The offence (falsification of accounts) was committed on 3 October 2025 and the FIR was registered the next week. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 344 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 373,
+  "instruction": "The offence (falsification of accounts) was committed on 7 May 2024 but the FIR was only registered on 2 October 2024. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 477A of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 374,
+  "instruction": "An FIR was registered on 24 January 2024 and the investigation was still pending in August 2024. The issue is: alteration in allowance. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 127 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 375,
+  "instruction": "An FIR was registered on 3 November 2025. The issue is: alteration in allowance. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 146 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 376,
+  "instruction": "The offence was committed on 26 April 2024 but the FIR was only registered on 2 October 2024. The issue is: alteration in allowance. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 146 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 377,
+  "instruction": "An FIR was registered on 11 January 2024 and the investigation was still pending in August 2024. The issue is: when police may arrest without warrant. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 41 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 378,
+  "instruction": "An FIR was registered on 26 March 2025. The issue is: when police may arrest without warrant. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 35 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 379,
+  "instruction": "The offence was committed on 3 February 2024 but the FIR was only registered on 2 November 2024. The issue is: when police may arrest without warrant. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 35 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 380,
+  "instruction": "The offence (false charge of offence made with intent to injure) was committed on 8 January 2023 and the FIR was registered on 27 January 2024. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 211 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 381,
+  "instruction": "The offence (false charge of offence made with intent to injure) was committed on 18 August 2025 and the FIR was registered the next week. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 248 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 382,
+  "instruction": "The offence (false charge of offence made with intent to injure) was committed on 26 May 2024 but the FIR was only registered on 27 October 2024. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 211 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 383,
+  "instruction": "An FIR was registered on 17 January 2024 and the investigation was still pending in August 2024. The issue is: saving of inherent powers of high court. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 482 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 384,
+  "instruction": "An FIR was registered on 4 September 2025. The issue is: saving of inherent powers of high court. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 528 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 385,
+  "instruction": "The offence was committed on 19 May 2024 but the FIR was only registered on 2 October 2024. The issue is: saving of inherent powers of high court. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 528 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 386,
+  "instruction": "The offence (dowry death) was committed on 17 June 2023 and the FIR was registered on 11 January 2024. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 304B of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 387,
+  "instruction": "The offence (dowry death) was committed on 5 November 2025 and the FIR was registered the next week. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 80 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 388,
+  "instruction": "The offence (dowry death) was committed on 26 April 2024 but the FIR was only registered on 27 August 2024. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 304B of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 389,
+  "instruction": "An FIR was registered on 5 January 2024 and the investigation was still pending in August 2024. The issue is: procedure for investigation. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 157 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 390,
+  "instruction": "An FIR was registered on 3 April 2025. The issue is: procedure for investigation. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 176 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 391,
+  "instruction": "The offence was committed on 5 February 2024 but the FIR was only registered on 15 November 2024. The issue is: procedure for investigation. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 176 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 392,
+  "instruction": "An FIR was registered on 5 March 2024 and the investigation was still pending in August 2024. The issue is: discharge (sessions trial). Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 227 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 393,
+  "instruction": "An FIR was registered on 24 November 2025. The issue is: discharge (sessions trial). Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 250 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 394,
+  "instruction": "The offence was committed on 10 February 2024 but the FIR was only registered on 19 October 2024. The issue is: discharge (sessions trial). Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 250 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 395,
+  "instruction": "An FIR was registered on 16 January 2024 and the investigation was still pending in August 2024. The issue is: power to summon material witness. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 311 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 396,
+  "instruction": "An FIR was registered on 9 March 2025. The issue is: power to summon material witness. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 348 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 397,
+  "instruction": "The offence was committed on 19 May 2024 but the FIR was only registered on 19 August 2024. The issue is: power to summon material witness. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 348 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 398,
+  "instruction": "The offence (punishment for dacoity) was committed on 5 April 2023 and the FIR was registered on 14 March 2024. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 395 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 399,
+  "instruction": "The offence (punishment for dacoity) was committed on 12 March 2025 and the FIR was registered the next week. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 310 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 400,
+  "instruction": "The offence (punishment for dacoity) was committed on 6 May 2024 but the FIR was only registered on 9 October 2024. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 395 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 401,
+  "instruction": "An FIR was registered on 25 March 2024 and the investigation was still pending in August 2024. The issue is: guidelines for plea bargaining. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 265B of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 402,
+  "instruction": "An FIR was registered on 15 November 2025. The issue is: guidelines for plea bargaining. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 290 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 403,
+  "instruction": "The offence was committed on 21 April 2024 but the FIR was only registered on 26 October 2024. The issue is: guidelines for plea bargaining. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 290 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 404,
+  "instruction": "An FIR was registered on 5 February 2024 and the investigation was still pending in August 2024. The issue is: exclusion of time in certain cases. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 470 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 405,
+  "instruction": "An FIR was registered on 20 October 2025. The issue is: exclusion of time in certain cases. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 516 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 406,
+  "instruction": "The offence was committed on 2 April 2024 but the FIR was only registered on 9 October 2024. The issue is: exclusion of time in certain cases. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 516 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 407,
+  "instruction": "An FIR was registered on 22 February 2024 and the investigation was still pending in August 2024. The issue is: conviction or acquittal (warrant case). Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 248 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 408,
+  "instruction": "An FIR was registered on 8 October 2025. The issue is: conviction or acquittal (warrant case). Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 271 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 409,
+  "instruction": "The offence was committed on 22 May 2024 but the FIR was only registered on 8 September 2024. The issue is: conviction or acquittal (warrant case). Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 271 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 410,
+  "instruction": "The offence (unlawful assembly) was committed on 22 February 2023 and the FIR was registered on 4 March 2024. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 141 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 411,
+  "instruction": "The offence (unlawful assembly) was committed on 4 September 2025 and the FIR was registered the next week. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 189 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 412,
+  "instruction": "The offence (unlawful assembly) was committed on 18 April 2024 but the FIR was only registered on 18 August 2024. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 141 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 413,
+  "instruction": "The offence (assault or use of criminal force to woman with intent to disrobe) was committed on 18 March 2023 and the FIR was registered on 23 March 2024. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 354B of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 414,
+  "instruction": "The offence (assault or use of criminal force to woman with intent to disrobe) was committed on 25 October 2025 and the FIR was registered the next week. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 76 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 415,
+  "instruction": "The offence (assault or use of criminal force to woman with intent to disrobe) was committed on 7 May 2024 but the FIR was only registered on 5 September 2024. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 354B of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 416,
+  "instruction": "The offence (every member of unlawful assembly guilty of offence committed in prosecution of common object) was committed on 4 January 2023 and the FIR was registered on 7 January 2024. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 149 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 417,
+  "instruction": "The offence (every member of unlawful assembly guilty of offence committed in prosecution of common object) was committed on 22 November 2025 and the FIR was registered the next week. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 190 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 418,
+  "instruction": "The offence (every member of unlawful assembly guilty of offence committed in prosecution of common object) was committed on 20 May 2024 but the FIR was only registered on 21 September 2024. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 149 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 419,
+  "instruction": "An FIR was registered on 6 February 2024 and the investigation was still pending in August 2024. The issue is: particulars as to time, place and person. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 212 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 420,
+  "instruction": "An FIR was registered on 18 September 2025. The issue is: particulars as to time, place and person. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 235 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 421,
+  "instruction": "The offence was committed on 2 January 2024 but the FIR was only registered on 15 September 2024. The issue is: particulars as to time, place and person. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 235 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 422,
+  "instruction": "An FIR was registered on 8 April 2024 and the investigation was still pending in August 2024. The issue is: police officer's power to require attendance. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 160 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 423,
+  "instruction": "An FIR was registered on 14 August 2025. The issue is: police officer's power to require attendance. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 179 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 424,
+  "instruction": "The offence was committed on 8 January 2024 but the FIR was only registered on 13 November 2024. The issue is: police officer's power to require attendance. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 179 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 425,
+  "instruction": "The offence (personating a public servant) was committed on 13 January 2023 and the FIR was registered on 6 January 2024. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 170 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 426,
+  "instruction": "The offence (personating a public servant) was committed on 6 June 2025 and the FIR was registered the next week. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 204 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 427,
+  "instruction": "The offence (personating a public servant) was committed on 25 February 2024 but the FIR was only registered on 2 August 2024. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 170 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 428,
+  "instruction": "An FIR was registered on 14 February 2024 and the investigation was still pending in August 2024. The issue is: acquittal or conviction (summons case). Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 254 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 429,
+  "instruction": "An FIR was registered on 13 October 2025. The issue is: acquittal or conviction (summons case). Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 277 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 430,
+  "instruction": "The offence was committed on 5 February 2024 but the FIR was only registered on 13 October 2024. The issue is: acquittal or conviction (summons case). Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 277 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 431,
+  "instruction": "The offence (unlawful assembly (punishment for being member)) was committed on 10 June 2023 and the FIR was registered on 7 January 2024. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 143 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 432,
+  "instruction": "The offence (unlawful assembly (punishment for being member)) was committed on 8 August 2025 and the FIR was registered the next week. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 189 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 433,
+  "instruction": "The offence (unlawful assembly (punishment for being member)) was committed on 26 April 2024 but the FIR was only registered on 13 September 2024. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 143 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 434,
+  "instruction": "An FIR was registered on 10 March 2024 and the investigation was still pending in August 2024. The issue is: procedure in case of insolvency of surety. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 447 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 435,
+  "instruction": "An FIR was registered on 22 March 2025. The issue is: procedure in case of insolvency of surety. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 492 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 436,
+  "instruction": "The offence was committed on 14 April 2024 but the FIR was only registered on 13 October 2024. The issue is: procedure in case of insolvency of surety. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 492 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 437,
+  "instruction": "An FIR was registered on 10 February 2024 and the investigation was still pending in August 2024. The issue is: recording of confessions and statements. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 164 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 438,
+  "instruction": "An FIR was registered on 9 April 2025. The issue is: recording of confessions and statements. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 183 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 439,
+  "instruction": "The offence was committed on 2 May 2024 but the FIR was only registered on 2 November 2024. The issue is: recording of confessions and statements. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 183 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 440,
+  "instruction": "The offence (cheating and dishonestly inducing delivery of property) was committed on 13 February 2023 and the FIR was registered on 24 February 2024. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 420 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 441,
+  "instruction": "The offence (cheating and dishonestly inducing delivery of property) was committed on 18 March 2025 and the FIR was registered the next week. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 318 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 442,
+  "instruction": "The offence (cheating and dishonestly inducing delivery of property) was committed on 4 February 2024 but the FIR was only registered on 5 August 2024. Which penal provision should the charge cite? Answer with the act and section number.",
+  "response": "Section 420 of the Bharatiya Nyaya Sanhita, 2023."
+ },
+ {
+  "sample_num": 443,
+  "instruction": "An FIR was registered on 6 February 2024 and the investigation was still pending in August 2024. The issue is: court may alter charge. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 216 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 444,
+  "instruction": "An FIR was registered on 14 April 2025. The issue is: court may alter charge. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 239 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+ },
+ {
+  "sample_num": 445,
+  "instruction": "The offence was committed on 23 May 2024 but the FIR was only registered on 9 October 2024. The issue is: court may alter charge. Which procedural provision governs this? Answer with the act and section number.",
+  "response": "Section 239 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
  }
 ]

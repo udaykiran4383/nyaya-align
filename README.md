@@ -12,14 +12,33 @@ Most of what open-weight models know about Indian criminal law is about the old 
 applies to a murder today and it says "IPC 302", a repealed section. The answer is BNS 103. Mistakes like this
 are confident and look plausible, and they are expensive. Nugen says alignment pays off most on this kind of problem.
 
-This project uses the Nugen API to align **one model per Act** and builds a full system around them:
+**The catch that makes this hard:** the correct citation depends on *dates*, not only on the offence.
 
-- **Route:** keyword routing, or ask all three models and keep the one with the highest `confidence_score`.
-- **Retrieve:** embed and rerank with the *same* aligned model id that generates. Nugen claims alignment reshapes the shared representation space, so this tests that claim.
-- **Generate:** a grounded answer that cites the Act and section.
-- **Gate:** a low-confidence answer gets wider retrieval and one retry, then a flag for human review.
+- **What the crime is.** BNS s.358 keeps the IPC for offences committed **before** 1 July 2024, so the offence date decides.
+- **How the case is handled.** BNSS s.531 keeps the CrPC for investigations **pending** on 1 July 2024, so the FIR date decides.
+- **Cases that straddle the date.** An offence in May 2024 with an FIR in August 2024 is charged under the **IPC** and investigated under the **BNSS**, both correct at once.
 
-## The benchmark (1,370 items, exact-match scored)
+High Courts have applied these rules (Rajasthan HC on s.358; Bombay HC on an FIR of 14 June 2024). An FIR filed under the wrong law can be quashed (Allahabad HC). So a tool that "always converts to the new law" is wrong for older cases, and one that knows only the old law is wrong for newer ones.
+
+This project uses the Nugen API to build and test four things:
+
+1. **Nyaya Lint, the product.** Paste an FIR, charge sheet or order. It finds every section cited, works out which law applies from the dates, and flags three mistakes:
+   - **stale:** an old section where the new law applies
+   - **premature:** a new section where the old law still applies
+   - **mismatch:** the right law, but a section whose text doesn't fit the facts. The aligned reranker checks this against the Gazette text.
+
+   Each suggested fix carries Nugen's `confidence_score`. Low-confidence fixes go to human review.
+2. **One aligned model per Act (BNS, BNSS, BSA), and a full system around them.**
+   - **Route:** pick the Act by keyword, or ask all three models and keep the most confident answer.
+   - **Retrieve:** embed and rerank with the *same* aligned model id that generates.
+   - **Generate:** a grounded answer that cites the Act and section.
+   - **Gate:** a low-confidence answer gets wider retrieval and one retry, then a flag for review.
+3. **Closing the loop (v1 → v2).** v1's mistakes on the *train* split, plus the savings rules, become a corrections document. The models are re-aligned on it, and v1 and v2 are compared on the untouched test split.
+4. **Two research questions about Nugen's own claims:**
+   - **Is `confidence_score` a control signal you can rely on?** A conformal risk-control step learns a threshold from the train split. Answers above it carry a guaranteed error rate (≤10% with 90% probability), and the test split checks that guarantee.
+   - **Does alignment reshape the representation space?** Query the Act's index with *only* a repealed citation ("Section 420 of the IPC", no offence words). An embedding can only find BNS 318 if alignment wrote the old→new link into its vectors. The control is another Act's aligned model.
+
+## The benchmark (2,054 items, exact-match scored)
 
 Every item has a section number as its gold answer, so scoring needs no LLM judge.
 
@@ -29,6 +48,7 @@ Every item has a section number as its gold answer, so scoring needs no LLM judg
 | reverse | BNS 103 replaced which IPC section? | 232 |
 | stale | "It is March 2025. A case of cheating is being registered. Which section applies?" Answering with the old number counts as a **stale error**. | 232 |
 | heading | Which BNSS section is titled "Information in cognizable cases"? | 674 |
+| temporal_pre / post / straddle | "The offence was committed on 7 Feb 2024 but the FIR was registered on 22 Nov 2024. Which penal provision should the charge cite?" The correct answer is the IPC number, and the BNS number is the trap. For procedure, the direction flips. | 228 each |
 
 - **Sources:** section text and headings are parsed from the official Gazette PDFs (`data/raw`). All 1,059 sections are recovered.
 - **Mapping checks:** the old→new mappings come from two independent public tables (vakeel360, LawSikho). If the tables disagree on a row, it's dropped. Every surviving row is checked against the Gazette text: the new section must exist and share vocabulary with the offence title.
@@ -48,7 +68,12 @@ python3 ask.py "Someone cheated me online last month. Which section applies?"
 python3 scripts/experiment.py --conditions base_closed,aligned_closed --limit 100
 python3 scripts/experiment.py --conditions all --split test
 python3 scripts/experiment.py --conditions all --split all
+python3 scripts/eval_lint.py      # linter on synthetic FIRs with planted errors (held-out mappings)
+python3 scripts/probe.py          # representation probe
+python3 scripts/close_loop.py build && python3 scripts/close_loop.py run      # v2 re-alignment
+python3 scripts/experiment.py --conditions aligned_closed,aligned_rag --version v2
 python3 scripts/report.py         # writes runs/REPORT.md
+echo "Offence on 3 Aug 2024 ... FIR registered 4 Aug 2024 u/s 379 IPC" | python3 lint.py -
 ```
 
 No dependencies beyond Python 3.10+ and `pdftotext` (only needed to rebuild the corpus).
@@ -67,7 +92,8 @@ No dependencies beyond Python 3.10+ and `pdftotext` (only needed to rebuild the 
 ```
 nyaya/client.py      stdlib Nugen client; every inference call is logged to runs/ledger.jsonl
 nyaya/system.py      router, per-Act vector index, retrieval, generation, confidence gate
-nyaya/score.py       section extraction, exact scoring, AUROC
+nyaya/score.py       section extraction, exact scoring, AUROC, conformal threshold
+nyaya/lint.py        citation linter (dates -> regime -> stale / premature / mismatch)
 scripts/             corpus prep, benchmark build, alignment pipeline, experiments, report
 ask.py               terminal demo
 ```

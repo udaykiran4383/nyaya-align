@@ -65,6 +65,7 @@ def main():
     p.add_argument("--kinds", default="forward,reverse,stale,heading")
     p.add_argument("--limit", type=int, default=0)
     p.add_argument("--workers", type=int, default=6)
+    p.add_argument("--version", default="v1", help="v1 | v2 (models from the closed-loop re-alignment)")
     args = p.parse_args()
 
     conds = ALL if args.conditions == "all" else args.conditions.split(",")
@@ -74,7 +75,7 @@ def main():
         items = random.Random(0).sample(items, min(args.limit, len(items)))
 
     api = Nugen()
-    aligned, base = load_models()
+    aligned, base = load_models(args.version)
     sys_ = Nyaya(api, aligned)
     base_sys = Nyaya(api, {a: base for a in aligned}, embed_models=aligned)
     for act in aligned:
@@ -82,7 +83,8 @@ def main():
 
     OUT.mkdir(parents=True, exist_ok=True)
     for cond in conds:
-        path = OUT / f"{cond}.jsonl"
+        name = cond if args.version == "v1" or cond.startswith("base_closed") else f"{cond}_{args.version}"
+        path = OUT / f"{name}.jsonl"
         done = {json.loads(l)["id"] for l in open(path)} if path.exists() else set()
         todo = [it for it in items if it["id"] not in done]
         print(f"[{cond}] {len(todo)} to run ({len(done)} cached)", flush=True)
@@ -92,6 +94,7 @@ def main():
             for fut in as_completed(futs):
                 try:
                     row = fut.result()
+                    row["model_version"] = args.version
                 except NugenError as e:
                     print(f"  ! {futs[fut]['id']}: {e}", flush=True)
                     continue

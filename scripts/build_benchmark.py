@@ -137,6 +137,41 @@ def main():
         add("heading", act, f"Which section of the {NEW_NAME[act]} is titled \"{h}\"? Answer with the section number.",
             num, "test" if i % 4 == 0 else "train")
 
+    # Temporal items: the right citation depends on dates, not just on the offence.
+    #   substantive (IPC/BNS): BNS s.358 saves the IPC for offences committed before 1 July 2024
+    #   procedural (CrPC/BNSS): BNSS s.531 saves the CrPC for investigations pending on 1 July 2024
+    # 'straddle' cases (offence before, FIR after) flip in opposite directions for the two kinds, so a model
+    # that only learned "always convert" or "always follow the FIR date" fails half of them.
+    # Appended after the original items with a separate RNG so earlier ids and splits never change.
+    trng = random.Random(11)
+    months = ["January", "February", "March", "April", "May", "June", "August", "September", "October", "November"]
+
+    def day(year, lo, hi):
+        m = trng.choice(months[lo:hi])
+        return f"{trng.randint(2, 27)} {m} {year}"
+
+    for m in mappings:
+        if m["old_code"] not in ("IPC", "CrPC") or m["old"] == m["new"]:
+            continue
+        what = m["title"].lower()
+        old, new = m["old"], m["new"]
+        if m["old_code"] == "IPC":
+            cases = [
+                ("temporal_pre", f"The offence ({what}) was committed on {day(2023, 0, 6)} and the FIR was registered on {day(2024, 0, 3)}.", old, new),
+                ("temporal_post", f"The offence ({what}) was committed on {day(2025, 0, 10)} and the FIR was registered the next week.", new, old),
+                ("temporal_straddle", f"The offence ({what}) was committed on {day(2024, 0, 5)} but the FIR was only registered on {day(2024, 6, 10)}.", old, new),
+            ]
+            ask = "Which penal provision should the charge cite? Answer with the act and section number."
+        else:
+            cases = [
+                ("temporal_pre", f"An FIR was registered on {day(2024, 0, 4)} and the investigation was still pending in August 2024. The issue is: {what}.", old, new),
+                ("temporal_post", f"An FIR was registered on {day(2025, 0, 10)}. The issue is: {what}.", new, old),
+                ("temporal_straddle", f"The offence was committed on {day(2024, 0, 5)} but the FIR was only registered on {day(2024, 6, 10)}. The issue is: {what}.", new, old),
+            ]
+            ask = "Which procedural provision governs this? Answer with the act and section number."
+        for kind, facts, gold, trap in cases:
+            add(kind, m["new_act"], f"{facts} {ask}", gold, m["split"], evidence=m["evidence"], trap=trap, old_code=m["old_code"])
+
     BENCH.mkdir(parents=True, exist_ok=True)
     (BENCH / "mappings.json").write_text(json.dumps(mappings, indent=1))
     with open(BENCH / "items.jsonl", "w") as f:
